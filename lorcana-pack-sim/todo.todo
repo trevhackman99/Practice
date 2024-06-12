@@ -1,0 +1,13 @@
+Lorcana Pack Sim
+
+Main components:
+- Fetch data from "api.lorcana-api.com" based on card set and rarity
+- Simulate a booster pack opening (6 commons, 3 uncommons, 2 rare slots, 1 foil slot)
+- Save data of cards into a csv that can be exported
+- Allow for user to select multiple packs to be opened and 
+added to a single csv
+
+Additional components:
+- Display the cards in a visually appealing way
+- Allow user to search/query for a specific card from API
+
