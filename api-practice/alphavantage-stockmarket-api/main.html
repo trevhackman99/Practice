@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Alpha Vantage API</h1>
+    <div class="main-container">
+        <h2>Search Parameters</h2>
+        <div class="search-container">
+            <form action="">
+                <label for="symbol">Symbol:</label>
+                <input type="text" id="symbol" name="symbol">
+                <label for="time-frame">Timeframe:</label>
+                <select id="time-frame" name="time-frame">
+                    <option id="1min" value="1min">1 Minute</option>
+                    <option id="5min" value="5min">5 Minute</option>
+                    <option id="15min" value="15min">15 Minute</option>
+                    <option id="30min" value="30min">30 Minute</option>
+                    <option id="60min" value="60min">60 Minute</option>
+                    <option id="DAILY" value="DAILY">Daily</option>
+                    <option id="WEEKLY" value="WEEKLY">Weekly</option>
+                    <option id="MONTHLY" value="MONTHLY">Monthly</option>
+                </select>
+                <button id="search-btn"  type='button' onclick="getData()">Get Data</button>
+
+            </form>
+        </div>
+        <div class="search-results-container">
+            <h3>Data</h3>
+            <div id="data-container">
+
+            </div>
+
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
