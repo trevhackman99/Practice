@@ -1,0 +1,58 @@
+/* 
+To see mobile device view on Chrome
+1. Open Chrome Developer Tools (F12)
+2. Click on the Toggle Device Toolbar icon
+3. Select a device from the Device Type list
+4. Refresh the page
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.title-ctn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.search-parameters-ctn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#search-res-ctn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid cyan;
+}
+
+.card-ctn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    border: 1px solid green;
+}
+
+.card-img-ctn {
+    display: flex;
+    justify-content: center;
+}
+
+.card-img-ctn img {
+    width: 100%;
+    height: 100%;
+}
+
+.card-info-ctn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
