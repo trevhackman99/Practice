@@ -48,25 +48,28 @@ function createDiv(cards) {
         cardCtn.setAttribute('class', 'card-ctn');
         container.appendChild(cardCtn);
         
-        // 
+        // Creates 'card-img-ctn' div and appends to 'card-ctn'
         const cardImgCtn =
         document.createElement('div');
 
         cardImgCtn.setAttribute('class', 'card-img-ctn');
         cardCtn.appendChild(cardImgCtn);
 
+        // Creates 'img' element and appends to 'card-img-ctn'
         const cardImg =
         document.createElement('img');
 
         cardImg.setAttribute('src', card.images.small);
         cardImgCtn.appendChild(cardImg);
 
+        // Creates 'card-info-ctn' div and appends to 'card-ctn'
         const cardInfoCtn =
         document.createElement('div');
 
         cardInfoCtn.setAttribute('class', 'card-info-ctn');
         cardCtn.appendChild(cardInfoCtn);
 
+        // Creates 'h3' element with 'card-name' class and appends to 'card-info-ctn'
         const cardName =
         document.createElement('h3');
 
@@ -74,6 +77,7 @@ function createDiv(cards) {
         cardName.textContent = card.name;
         cardInfoCtn.appendChild(cardName);
 
+        // Creates 'p' element with 'card-set' class and appends to 'card-info-ctn'
         const cardSet =
         document.createElement('p');
 
@@ -81,6 +85,7 @@ function createDiv(cards) {
         cardSet.textContent = card.set.name;
         cardInfoCtn.appendChild(cardSet);
 
+        // Creates 'p' element with 'card-num' class and appends to 'card-info-ctn'
         const cardNum =
         document.createElement('p');
 
@@ -88,10 +93,13 @@ function createDiv(cards) {
         cardNum.textContent = 'Card Number: ' + card.number;
         cardInfoCtn.appendChild(cardNum);
 
+        // Creates 'p' element with 'card-price-mkt' class and appends to 'card-info-ctn'
         const cardPriceMkt =
         document.createElement('p');
         cardPriceMkt.setAttribute('class', 'card-price-mkt');
         
+        // Depending on card there are multiple prices
+        // This loop will iterate through each price and display it
         const cardPrices =
         card.tcgplayer.prices;
         // console.log(cardPrices);
