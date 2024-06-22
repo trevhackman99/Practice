@@ -1,19 +1,27 @@
 // Listens for the button click event and calls FUNCTION fetchData
 document.getElementById('fetchDataBtn').addEventListener('click', fetchData);
 
+
+// API URL and TOKEN
+const url = 'https://api.pokemontcg.io/v2';
+const TOKEN = '';
+
+
+document.getElementByClass('set-request-btn').addEventListener('click', function() {
+        const setName = document.getElementById('vivid-voltage').value;
+        populateSetCards(setName);
+    });
+
 // Async FUNCTION that takes user input from 'searchInput' and makes an API FETCH request
 async function fetchData() {
 
     // Retrieves userInput from the searchInput field
     const userInput = document.getElementById('searchInput').value;
 
-    // API URL and TOKEN
-    const url = 'https://api.pokemontcg.io/v2';
-    const TOKEN = '';
 
-    // TRY / CATCH block to handle request and report errors
+
+    // TRY & CATCH block to handle request and report errors
     try {
-        console.log('fetchData FUNCTION called');
         const response = await 
         fetch(`${url}/cards?q=name:${userInput}`, {
             headers: {
@@ -128,4 +136,25 @@ function createDiv(cards) {
     });
 }
 
+async function populateSetCards(setName) {
+    try {
+        const response = await 
+        fetch(`${url}/cards?q=set:${setName}`, {
+            headers: {
+                'X-Api-Key': TOKEN
+            },
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            const sets = data.data;
+            console.log('Success:', sets);
+            createSetDiv(sets);
+        } else {
+            console.error('Error:', response.status);
+        }
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
     
