@@ -2,15 +2,7 @@
 document.getElementById('fetchDataBtn').addEventListener('click', fetchData);
 
 
-// API URL and TOKEN
-const url = 'https://api.pokemontcg.io/v2';
-const TOKEN = '';
 
-
-document.getElementByClass('set-request-btn').addEventListener('click', function() {
-        const setName = document.getElementById('vivid-voltage').value;
-        populateSetCards(setName);
-    });
 
 // Async FUNCTION that takes user input from 'searchInput' and makes an API FETCH request
 async function fetchData() {
@@ -18,6 +10,9 @@ async function fetchData() {
     // Retrieves userInput from the searchInput field
     const userInput = document.getElementById('searchInput').value;
 
+    // API URL and TOKEN
+    const url = 'https://api.pokemontcg.io/v2';
+    const TOKEN = '';
 
 
     // TRY & CATCH block to handle request and report errors
@@ -136,10 +131,15 @@ function createDiv(cards) {
     });
 }
 
-async function populateSetCards(setName) {
+async function fetchSetNames(seriesName) {
+
+    // API URL and TOKEN
+    const url = 'https://api.pokemontcg.io/v2';
+    const TOKEN = '';
+
     try {
         const response = await 
-        fetch(`${url}/cards?q=set:${setName}`, {
+        fetch(`${url}/sets?q=series:${seriesName}`, {
             headers: {
                 'X-Api-Key': TOKEN
             },
@@ -150,6 +150,7 @@ async function populateSetCards(setName) {
             const sets = data.data;
             console.log('Success:', sets);
             createSetDiv(sets);
+
         } else {
             console.error('Error:', response.status);
         }
@@ -157,4 +158,22 @@ async function populateSetCards(setName) {
         console.error('Error:', error);
     }
 }
-    
+
+function createSetDiv(sets) {
+
+    const container
+    = document.getElementById('set-results-select');
+
+    sets.forEach((set) => {
+
+
+        const setImg =
+        document.createElement('img');
+        setImg.setAttribute('src', set.images.logo);
+        setImg.setAttribute('alt', set.name);
+        setImg.setAttribute('class', 'set-image');
+        container.appendChild(setImg);
+
+    });
+
+}

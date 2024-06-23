@@ -89,3 +89,8 @@ ul {
     margin-top: 20px;
     border: 1px solid green;
 }
+
+.set-image {
+    width: 40%;
+    height: auto;
+}
