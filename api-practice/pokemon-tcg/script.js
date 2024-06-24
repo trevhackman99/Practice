@@ -1,8 +1,8 @@
 // Listens for the button click event and calls FUNCTION fetchData
 document.getElementById('fetchDataBtn').addEventListener('click', fetchData);
 
-
-
+const setLinks = document.querySelectorAll('.set-link');
+console.log(setLinks);
 
 // Async FUNCTION that takes user input from 'searchInput' and makes an API FETCH request
 async function fetchData() {
@@ -166,14 +166,37 @@ function createSetDiv(sets) {
 
     sets.forEach((set) => {
 
+        const setLink =
+        document.createElement('a');
+        setLink.setAttribute('href', 'set_temp.html');
+        setLink.setAttribute('class', 'set-link');
+        setLink.setAttribute('id', set.id);
+        container.appendChild(setLink);
 
         const setImg =
         document.createElement('img');
         setImg.setAttribute('src', set.images.logo);
-        setImg.setAttribute('alt', set.name);
         setImg.setAttribute('class', 'set-image');
-        container.appendChild(setImg);
+        setLink.appendChild(setImg);
+
 
     });
+}
 
+for (let i = 0; i < setLinks.length; i++) {
+    setLinks[i].onclick = function () {
+        console.log('Set link clicked');
+        const setId = setLinks[i].id;
+        fetchSetData(setId);
+       
+
+    }
+
+}
+
+
+
+async function fetchSetData(setName) {
+
+    console.log('Set link clicked and page is loaded: ' + setName);
 }

@@ -19,11 +19,11 @@
     </div>
     <div class="content-ctn">
         <div class="set-info-ctn">
-            <h3>Set Name: Vivid Voltage</h3>
-            <p>Set Code: swsh4</p>
-            <p>Set Series: Sword & Shield</p>
-            <p>Set Total Cards: 203</p>
-            <p>Set Release Date: 2020/11/13</p>
+            <h3 id="set-info-name">Set Name: </h3>
+            <p id="set-info-code">Set Code: </p>
+            <p id="set-info-series">Set Series: </p>
+            <p id="set-info-total">Set Total Cards: </p>
+            <p id="set-info-date">Set Release Date: </p>
         </div>
         <div class="set-cards-ctn">
             <h3>Cards in Set</h3>
@@ -34,5 +34,11 @@
                     
     
     <script src="script.js"></script>
+    <script>
+            window.onload = function () {
+                console.log('Set link clicked and page is loaded');
+                fetchSetData();
+            }
+    </script>
 </body>
 </html>
