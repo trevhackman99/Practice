@@ -35,10 +35,14 @@
     
     <script src="script.js"></script>
     <script>
-            window.onload = function () {
-                console.log('Set link clicked and page is loaded');
-                fetchSetData();
-            }
+        window.onload = function () {
+        var URLparams = 
+        new URLSearchParams(window.location.search);
+
+        var setID = URLparams.get('set');
+        console.log('Set ID: ' + setID);
+        }
     </script>
+    
 </body>
 </html>

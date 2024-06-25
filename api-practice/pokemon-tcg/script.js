@@ -1,8 +1,7 @@
 // Listens for the button click event and calls FUNCTION fetchData
 document.getElementById('fetchDataBtn').addEventListener('click', fetchData);
 
-const setLinks = document.querySelectorAll('.set-link');
-console.log(setLinks);
+
 
 // Async FUNCTION that takes user input from 'searchInput' and makes an API FETCH request
 async function fetchData() {
@@ -181,18 +180,12 @@ function createSetDiv(sets) {
 
 
     });
+
+    
 }
 
-for (let i = 0; i < setLinks.length; i++) {
-    setLinks[i].onclick = function () {
-        console.log('Set link clicked');
-        const setId = setLinks[i].id;
-        fetchSetData(setId);
-       
 
-    }
 
-}
 
 
 

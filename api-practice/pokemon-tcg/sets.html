@@ -19,7 +19,7 @@
         <br>
         <form>
             
-            <input type="button" value="Sword & Shield" class="series-name-btn" onclick="fetchSetNames('Sword & Shield')"></button>
+            <input type="button" value="Sword & Shield" id="series-name-btn" class="series-name-btn" onclick="fetchSetNames('Sword & Shield')"></button>
             
             
             
@@ -39,5 +39,38 @@
                     
     </div>
     <script src="script.js"></script>
+    <script>
+        // Get all elements with the class 'set-link'
+        var setLinks;
+        var seriesNameBtn = document.getElementById('series-name-btn');
+        // Add an event listener to the series name button
+        seriesNameBtn.addEventListener("click", function (event) {
+                window.onload = function () {
+                    var setLinks = document.querySelectorAll('.set-link');
+                    console.log(setLinks);
+                }
+        });
+        
+        
+        // Loop through the elements
+        for (let i = 0; i < setLinks.length; i++) {
+            setLinks[i].addEventListener("click", function (event) {
+
+            console.log('Set link clicked and page is loaded: ' + event.target.id);
+
+            //Prevents the default action of the link
+            event.preventDefault();
+
+            //Alters the href of the link to include the set ID
+            event.target.href += `?set=${event.target.id}`;
+
+            //Loads the HTML page with the altered href
+            window.location = this.href;
+        
+            }
+
+        )}
+    </script>
+        
 </body>
 </html>
