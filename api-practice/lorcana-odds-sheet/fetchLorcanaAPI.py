@@ -1,5 +1,6 @@
 import requests
 import time
+import json
 
 def fetchLorcanaAPI():
     url = "https://api.lorcast.com"
@@ -10,11 +11,15 @@ def fetchLorcanaAPI():
 
         time.sleep(.5)
         
-        query = url + "/v0/cards/search?q=elsa+set:1"
+        query = url + "/v0/cards/search?q=set:1"
         response = requests.get(query)
-        data = response.json()['results']['name']
+        data = response.json()['results']
 
-        print(data)
+        with open('data.json', 'w') as f:
+            json.dump(data, f)
+        
+
+        print("Success!")
 
 
 fetchLorcanaAPI()
