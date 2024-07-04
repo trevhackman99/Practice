@@ -5,7 +5,7 @@ window.onload = function() {
             
             // console.log(`${data[0].name} - ${data[0].version}`)
             for (let i = 0; i < data.length; i++) {
-                const table = document.getElementById('mainTable');
+                const table = document.getElementById('main-table-body');
                 let row = document.createElement('tr');
                 let cell = document.createElement('td');
                 cell.textContent = `${data[i].name} - ${data[i].version}`;

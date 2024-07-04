@@ -1,0 +1,10 @@
+#In TERMINAL command 'python -m venv (venv name)' creates venv in current directory
+#In TERMINAL command 'source (venv name)/bin/activate' activates venv
+
+#LIBRARIES USED
+
+#NODE (NPM)
+express (npm install express)
+
+#PYTHON
+requests
