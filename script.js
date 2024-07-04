@@ -8,7 +8,13 @@ window.onload = function() {
                 const table = document.getElementById('main-table-body');
                 let row = document.createElement('tr');
                 let cell = document.createElement('td');
+
+                if (data[i].version === '') {
+                cell.textContent = `${data[i].name}`;
+                } else {
                 cell.textContent = `${data[i].name} - ${data[i].version}`;
+                }
+                
                 row.appendChild(cell);
                 cell = document.createElement('td');
                 cell.textContent = data[i].set;
