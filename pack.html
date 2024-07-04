@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lorcana Table</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Lorcana TCG Pack</h1>
+        <a id="tableLink" href="table.html"><button>Table</button></a>
+
+    </div>
+    <div class="table-ctn">
+        <label for="desiredPacks">How many packs?: <input value=1 id="desiredPacks" name="desiredPacks" type="number"></label>
+        <button id="pack-open-btn">Open Pack(s)</button>
+        <button id="reset-btn">Reset</button>
+            <div class="table-ctn">
+                <p><span id="packs-opened">Packs Opened: 0</span> <span id="super-rare-counter">Super Rares: 0</span> <span id="legendary-counter">Legendaries: 0</span></p>
+                <table id="main-table">
+                    <thead>
+                        <tr>
+                            <th>Card Name</th>
+                            <th>Card Set</th>
+                            <th>Card Number</th>
+                            <th>Card Rarity</th>
+                            <th>Card Price</th>
+                            <th>Card Foil Price</th>
+                        </tr>
+                    </thead>
+                    <tbody id="main-table-body">
+        
+                    </tbody>
+        
+                </table>
+            </div>
+        </table>
+    </div>
+</body>
+<script src="pack-script.js"></script>
+</html>

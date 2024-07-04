@@ -1,0 +1,1838 @@
+[
+  {
+    "name": "Abu",
+    "version": "Mischievous Monkey",
+    "set": "The First Chapter",
+    "collector_number": "103",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.19
+  },
+  {
+    "name": "Aladdin",
+    "version": "Cornered Swordsman",
+    "set": "The First Chapter",
+    "collector_number": "171",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.15
+  },
+  {
+    "name": "Aladdin",
+    "version": "Heroic Outlaw",
+    "set": "The First Chapter",
+    "collector_number": "104",
+    "rarity": "Super_rare",
+    "normal": 0.35,
+    "foil": 0.46
+  },
+  {
+    "name": "Aladdin",
+    "version": "Prince Ali",
+    "set": "The First Chapter",
+    "collector_number": "69",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.25
+  },
+  {
+    "name": "Aladdin",
+    "version": "Street Rat",
+    "set": "The First Chapter",
+    "collector_number": "105",
+    "rarity": "Common",
+    "normal": 0.07,
+    "foil": 0.21
+  },
+  {
+    "name": "Anna",
+    "version": "Heir to Arendelle",
+    "set": "The First Chapter",
+    "collector_number": "35",
+    "rarity": "Uncommon",
+    "normal": 0.11,
+    "foil": 0.56
+  },
+  {
+    "name": "Archimedes",
+    "version": "Highly Educated Owl",
+    "set": "The First Chapter",
+    "collector_number": "36",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.21
+  },
+  {
+    "name": "Ariel",
+    "version": "On Human Legs",
+    "set": "The First Chapter",
+    "collector_number": "1",
+    "rarity": "Uncommon",
+    "normal": 0.02,
+    "foil": 0.43
+  },
+  {
+    "name": "Ariel",
+    "version": "Spectacular Singer",
+    "set": "The First Chapter",
+    "collector_number": "2",
+    "rarity": "Super_rare",
+    "normal": 3.82,
+    "foil": 12.26
+  },
+  {
+    "name": "Ariel",
+    "version": "Whoseit Collector",
+    "set": "The First Chapter",
+    "collector_number": "137",
+    "rarity": "Rare",
+    "normal": 0.32,
+    "foil": 2.11
+  },
+  {
+    "name": "Aurora",
+    "version": "Briar Rose",
+    "set": "The First Chapter",
+    "collector_number": "138",
+    "rarity": "Common",
+    "normal": 0.07,
+    "foil": 0.22
+  },
+  {
+    "name": "Aurora",
+    "version": "Dreaming Guardian",
+    "set": "The First Chapter",
+    "collector_number": "139",
+    "rarity": "Super_rare",
+    "normal": 0.54,
+    "foil": 0.5
+  },
+  {
+    "name": "Aurora",
+    "version": "Regal Princess",
+    "set": "The First Chapter",
+    "collector_number": "140",
+    "rarity": "Uncommon",
+    "normal": 0.04,
+    "foil": 0.53
+  },
+  {
+    "name": "A Whole New World",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "195",
+    "rarity": "Super_rare",
+    "normal": 10.47,
+    "foil": 18.76
+  },
+  {
+    "name": "Beast",
+    "version": "Hardheaded",
+    "set": "The First Chapter",
+    "collector_number": "172",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.76
+  },
+  {
+    "name": "Beast",
+    "version": "Wolfsbane",
+    "set": "The First Chapter",
+    "collector_number": "70",
+    "rarity": "Legendary",
+    "normal": 2.28,
+    "foil": 12.59
+  },
+  {
+    "name": "Beast's Mirror",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "201",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.25
+  },
+  {
+    "name": "Befuddle",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "62",
+    "rarity": "Uncommon",
+    "normal": 0.23,
+    "foil": 1.07
+  },
+  {
+    "name": "Belle",
+    "version": "Inventive Engineer",
+    "set": "The First Chapter",
+    "collector_number": "141",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.51
+  },
+  {
+    "name": "Belle",
+    "version": "Strange but Special",
+    "set": "The First Chapter",
+    "collector_number": "142",
+    "rarity": "Legendary",
+    "normal": 20.88,
+    "foil": 51.85
+  },
+  {
+    "name": "Be Our Guest",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "25",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.55
+  },
+  {
+    "name": "Be Prepared",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "128",
+    "rarity": "Rare",
+    "normal": 9.34,
+    "foil": 18.79
+  },
+  {
+    "name": "Break",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "196",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.2
+  },
+  {
+    "name": "Captain",
+    "version": "Colonel's Lieutenant",
+    "set": "The First Chapter",
+    "collector_number": "106",
+    "rarity": "Uncommon",
+    "normal": 0.04,
+    "foil": 0.26
+  },
+  {
+    "name": "Captain Hook",
+    "version": "Captain of the Jolly Roger",
+    "set": "The First Chapter",
+    "collector_number": "173",
+    "rarity": "Rare",
+    "normal": 0.25,
+    "foil": 0.99
+  },
+  {
+    "name": "Captain Hook",
+    "version": "Forceful Duelist",
+    "set": "The First Chapter",
+    "collector_number": "174",
+    "rarity": "Common",
+    "normal": 0.1,
+    "foil": 1.2
+  },
+  {
+    "name": "Captain Hook",
+    "version": "Ruthless Pirate",
+    "set": "The First Chapter",
+    "collector_number": "107",
+    "rarity": "Rare",
+    "normal": 0.2,
+    "foil": 0.85
+  },
+  {
+    "name": "Captain Hook",
+    "version": "Thinking a Happy Thought",
+    "set": "The First Chapter",
+    "collector_number": "175",
+    "rarity": "Rare",
+    "normal": 0.43,
+    "foil": 2.14
+  },
+  {
+    "name": "Cerberus",
+    "version": "Three-Headed Dog",
+    "set": "The First Chapter",
+    "collector_number": "176",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.2
+  },
+  {
+    "name": "Cheshire Cat",
+    "version": "Not All There",
+    "set": "The First Chapter",
+    "collector_number": "71",
+    "rarity": "Uncommon",
+    "normal": 0.21,
+    "foil": 0.65
+  },
+  {
+    "name": "Chief Tui",
+    "version": "Respected Leader",
+    "set": "The First Chapter",
+    "collector_number": "143",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.35
+  },
+  {
+    "name": "Cinderella",
+    "version": "Gentle and Kind",
+    "set": "The First Chapter",
+    "collector_number": "3",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.47
+  },
+  {
+    "name": "Coconut Basket",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "166",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.32
+  },
+  {
+    "name": "Control Your Temper!",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "26",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.22
+  },
+  {
+    "name": "Cruella De Vil",
+    "version": "Miserable as Usual",
+    "set": "The First Chapter",
+    "collector_number": "72",
+    "rarity": "Rare",
+    "normal": 0.13,
+    "foil": 0.21
+  },
+  {
+    "name": "Cut to the Chase",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "129",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.27
+  },
+  {
+    "name": "Develop Your Brain",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "161",
+    "rarity": "Common",
+    "normal": 0.12,
+    "foil": 1.1
+  },
+  {
+    "name": "Dinglehopper",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "32",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.3
+  },
+  {
+    "name": "Do It Again!",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "94",
+    "rarity": "Rare",
+    "normal": 0.26,
+    "foil": 1.12
+  },
+  {
+    "name": "Donald Duck",
+    "version": "Boisterous Fowl",
+    "set": "The First Chapter",
+    "collector_number": "108",
+    "rarity": "Uncommon",
+    "normal": 0.05,
+    "foil": 0.28
+  },
+  {
+    "name": "Donald Duck",
+    "version": "Musketeer",
+    "set": "The First Chapter",
+    "collector_number": "177",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.44
+  },
+  {
+    "name": "Donald Duck",
+    "version": "Strutting His Stuff",
+    "set": "The First Chapter",
+    "collector_number": "144",
+    "rarity": "Common",
+    "normal": 0.07,
+    "foil": 0.21
+  },
+  {
+    "name": "Dragon Fire",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "130",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.74
+  },
+  {
+    "name": "Dr. Facilier",
+    "version": "Agent Provocateur",
+    "set": "The First Chapter",
+    "collector_number": "37",
+    "rarity": "Rare",
+    "normal": 0.15,
+    "foil": 1.18
+  },
+  {
+    "name": "Dr. Facilier",
+    "version": "Charlatan",
+    "set": "The First Chapter",
+    "collector_number": "38",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.21
+  },
+  {
+    "name": "Dr. Facilier",
+    "version": "Remarkable Gentleman",
+    "set": "The First Chapter",
+    "collector_number": "39",
+    "rarity": "Rare",
+    "normal": 0.21,
+    "foil": 0.75
+  },
+  {
+    "name": "Dr. Facilier's Cards",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "101",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.31
+  },
+  {
+    "name": "Duke of Weselton",
+    "version": "Opportunistic Official",
+    "set": "The First Chapter",
+    "collector_number": "73",
+    "rarity": "Common",
+    "normal": 0.02,
+    "foil": 0.19
+  },
+  {
+    "name": "Elsa",
+    "version": "Ice Surfer",
+    "set": "The First Chapter",
+    "collector_number": "109",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.25
+  },
+  {
+    "name": "Elsa",
+    "version": "Queen Regent",
+    "set": "The First Chapter",
+    "collector_number": "40",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.22
+  },
+  {
+    "name": "Elsa",
+    "version": "Snow Queen",
+    "set": "The First Chapter",
+    "collector_number": "41",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 1.32
+  },
+  {
+    "name": "Elsa",
+    "version": "Spirit of Winter",
+    "set": "The First Chapter",
+    "collector_number": "42",
+    "rarity": "Legendary",
+    "normal": 7.38,
+    "foil": 34.97
+  },
+  {
+    "name": "Eye of the Fates",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "167",
+    "rarity": "Uncommon",
+    "normal": 0.16,
+    "foil": 0.44
+  },
+  {
+    "name": "Fan the Flames",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "131",
+    "rarity": "Uncommon",
+    "normal": 0.13,
+    "foil": 0.34
+  },
+  {
+    "name": "Fire the Cannons!",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "197",
+    "rarity": "Common",
+    "normal": 0.11,
+    "foil": 0.51
+  },
+  {
+    "name": "Fishbone Quill",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "168",
+    "rarity": "Rare",
+    "normal": 10.06,
+    "foil": 21.23
+  },
+  {
+    "name": "Flotsam",
+    "version": "Ursula's Spy",
+    "set": "The First Chapter",
+    "collector_number": "43",
+    "rarity": "Rare",
+    "normal": 0.12,
+    "foil": 0.98
+  },
+  {
+    "name": "Flounder",
+    "version": "Voice of Reason",
+    "set": "The First Chapter",
+    "collector_number": "145",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.2
+  },
+  {
+    "name": "Flynn Rider",
+    "version": "Charming Rogue",
+    "set": "The First Chapter",
+    "collector_number": "74",
+    "rarity": "Uncommon",
+    "normal": 1.45,
+    "foil": 3.37
+  },
+  {
+    "name": "Freeze",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "63",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.23
+  },
+  {
+    "name": "Friends on the Other Side",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "64",
+    "rarity": "Common",
+    "normal": 0.31,
+    "foil": 4.78
+  },
+  {
+    "name": "Frying Pan",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "202",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.25
+  },
+  {
+    "name": "Gantu",
+    "version": "Galactic Federation Captain",
+    "set": "The First Chapter",
+    "collector_number": "178",
+    "rarity": "Legendary",
+    "normal": 1.52,
+    "foil": 10.67
+  },
+  {
+    "name": "Gaston",
+    "version": "Arrogant Hunter",
+    "set": "The First Chapter",
+    "collector_number": "110",
+    "rarity": "Common",
+    "normal": 0.08,
+    "foil": 0.21
+  },
+  {
+    "name": "Genie",
+    "version": "On the Job",
+    "set": "The First Chapter",
+    "collector_number": "75",
+    "rarity": "Super_rare",
+    "normal": 0.43,
+    "foil": 1.8
+  },
+  {
+    "name": "Genie",
+    "version": "Powers Unleashed",
+    "set": "The First Chapter",
+    "collector_number": "76",
+    "rarity": "Rare",
+    "normal": 0.28,
+    "foil": 0.92
+  },
+  {
+    "name": "Genie",
+    "version": "The Ever Impressive",
+    "set": "The First Chapter",
+    "collector_number": "77",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.16
+  },
+  {
+    "name": "Goofy",
+    "version": "Daredevil",
+    "set": "The First Chapter",
+    "collector_number": "111",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.26
+  },
+  {
+    "name": "Goofy",
+    "version": "Musketeer",
+    "set": "The First Chapter",
+    "collector_number": "4",
+    "rarity": "Uncommon",
+    "normal": 0.15,
+    "foil": 0.56
+  },
+  {
+    "name": "Goons",
+    "version": "Maleficent's Underlings",
+    "set": "The First Chapter",
+    "collector_number": "179",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.22
+  },
+  {
+    "name": "Grab Your Sword",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "198",
+    "rarity": "Rare",
+    "normal": 2.51,
+    "foil": 10.27
+  },
+  {
+    "name": "Gramma Tala",
+    "version": "Storyteller",
+    "set": "The First Chapter",
+    "collector_number": "146",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 1.62
+  },
+  {
+    "name": "Hades",
+    "version": "Infernal Schemer",
+    "set": "The First Chapter",
+    "collector_number": "147",
+    "rarity": "Legendary",
+    "normal": 8.62,
+    "foil": 32.76
+  },
+  {
+    "name": "Hades",
+    "version": "King of Olympus",
+    "set": "The First Chapter",
+    "collector_number": "5",
+    "rarity": "Rare",
+    "normal": 0,
+    "foil": 1.98
+  },
+  {
+    "name": "Hades",
+    "version": "Lord of the Underworld",
+    "set": "The First Chapter",
+    "collector_number": "6",
+    "rarity": "Rare",
+    "normal": 0.19,
+    "foil": 2.63
+  },
+  {
+    "name": "Hakuna Matata",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "27",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.25
+  },
+  {
+    "name": "Hans",
+    "version": "Scheming Prince",
+    "set": "The First Chapter",
+    "collector_number": "78",
+    "rarity": "Rare",
+    "normal": 0.34,
+    "foil": 1.11
+  },
+  {
+    "name": "Hans",
+    "version": "Thirteenth in Line",
+    "set": "The First Chapter",
+    "collector_number": "180",
+    "rarity": "Super_rare",
+    "normal": 0.44,
+    "foil": 1.91
+  },
+  {
+    "name": "Healing Glow",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "28",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.27
+  },
+  {
+    "name": "HeiHei",
+    "version": "Boat Snack",
+    "set": "The First Chapter",
+    "collector_number": "7",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.26
+  },
+  {
+    "name": "Hercules",
+    "version": "True Hero",
+    "set": "The First Chapter",
+    "collector_number": "181",
+    "rarity": "Common",
+    "normal": 0.12,
+    "foil": 0.32
+  },
+  {
+    "name": "He's Got a Sword!",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "132",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.18
+  },
+  {
+    "name": "Horace",
+    "version": "No-Good Scoundrel",
+    "set": "The First Chapter",
+    "collector_number": "79",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.15
+  },
+  {
+    "name": "Iago",
+    "version": "Loud-Mouthed Parrot",
+    "set": "The First Chapter",
+    "collector_number": "80",
+    "rarity": "Rare",
+    "normal": 0.12,
+    "foil": 0.56
+  },
+  {
+    "name": "If it's Not Baroque",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "162",
+    "rarity": "Rare",
+    "normal": 0.18,
+    "foil": 0.8
+  },
+  {
+    "name": "Jafar",
+    "version": "Keeper of Secrets",
+    "set": "The First Chapter",
+    "collector_number": "44",
+    "rarity": "Rare",
+    "normal": 0.35,
+    "foil": 1.41
+  },
+  {
+    "name": "Jafar",
+    "version": "Wicked Sorcerer",
+    "set": "The First Chapter",
+    "collector_number": "45",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.24
+  },
+  {
+    "name": "Jasmine",
+    "version": "Disguised",
+    "set": "The First Chapter",
+    "collector_number": "148",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.28
+  },
+  {
+    "name": "Jasmine",
+    "version": "Queen of Agrabah",
+    "set": "The First Chapter",
+    "collector_number": "149",
+    "rarity": "Rare",
+    "normal": 0.49,
+    "foil": 2.41
+  },
+  {
+    "name": "Jasper",
+    "version": "Common Crook",
+    "set": "The First Chapter",
+    "collector_number": "81",
+    "rarity": "Uncommon",
+    "normal": 0.05,
+    "foil": 0.29
+  },
+  {
+    "name": "Jetsam",
+    "version": "Ursula's Spy",
+    "set": "The First Chapter",
+    "collector_number": "46",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.19
+  },
+  {
+    "name": "John Silver",
+    "version": "Alien Pirate",
+    "set": "The First Chapter",
+    "collector_number": "82",
+    "rarity": "Legendary",
+    "normal": 1.87,
+    "foil": 12.06
+  },
+  {
+    "name": "Jumba Jookiba",
+    "version": "Renegade Scientist",
+    "set": "The First Chapter",
+    "collector_number": "83",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.34
+  },
+  {
+    "name": "Just in Time",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "29",
+    "rarity": "Rare",
+    "normal": 0.4,
+    "foil": 1.65
+  },
+  {
+    "name": "Kristoff",
+    "version": "Official Ice Master",
+    "set": "The First Chapter",
+    "collector_number": "182",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.19
+  },
+  {
+    "name": "Kronk",
+    "version": "Right-Hand Man",
+    "set": "The First Chapter",
+    "collector_number": "183",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.36
+  },
+  {
+    "name": "Kuzco",
+    "version": "Temperamental Emperor",
+    "set": "The First Chapter",
+    "collector_number": "84",
+    "rarity": "Rare",
+    "normal": 0.49,
+    "foil": 2.33
+  },
+  {
+    "name": "Lady Tremaine",
+    "version": "Wicked Stepmother",
+    "set": "The First Chapter",
+    "collector_number": "85",
+    "rarity": "Rare",
+    "normal": 0.17,
+    "foil": 1.23
+  },
+  {
+    "name": "Lantern",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "33",
+    "rarity": "Rare",
+    "normal": 0.86,
+    "foil": 3.42
+  },
+  {
+    "name": "LeFou",
+    "version": "Bumbler",
+    "set": "The First Chapter",
+    "collector_number": "8",
+    "rarity": "Uncommon",
+    "normal": 0.05,
+    "foil": 0.36
+  },
+  {
+    "name": "LeFou",
+    "version": "Instigator",
+    "set": "The First Chapter",
+    "collector_number": "112",
+    "rarity": "Rare",
+    "normal": 0.22,
+    "foil": 1.76
+  },
+  {
+    "name": "Let It Go",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "163",
+    "rarity": "Rare",
+    "normal": 1.53,
+    "foil": 4.97
+  },
+  {
+    "name": "Lilo",
+    "version": "Galactic Hero",
+    "set": "The First Chapter",
+    "collector_number": "184",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.32
+  },
+  {
+    "name": "Lilo",
+    "version": "Making a Wish",
+    "set": "The First Chapter",
+    "collector_number": "9",
+    "rarity": "Rare",
+    "normal": 1.97,
+    "foil": 3.44
+  },
+  {
+    "name": "Mad Hatter",
+    "version": "Gracious Host",
+    "set": "The First Chapter",
+    "collector_number": "86",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.39
+  },
+  {
+    "name": "Magic Broom",
+    "version": "Bucket Brigade",
+    "set": "The First Chapter",
+    "collector_number": "47",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.76
+  },
+  {
+    "name": "Magic Golden Flower",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "169",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.23
+  },
+  {
+    "name": "Magic Mirror",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "66",
+    "rarity": "Rare",
+    "normal": 0.24,
+    "foil": 1.05
+  },
+  {
+    "name": "Maleficent",
+    "version": "Biding Her Time",
+    "set": "The First Chapter",
+    "collector_number": "48",
+    "rarity": "Rare",
+    "normal": 2.58,
+    "foil": 4.4
+  },
+  {
+    "name": "Maleficent",
+    "version": "Monstrous Dragon",
+    "set": "The First Chapter",
+    "collector_number": "113",
+    "rarity": "Legendary",
+    "normal": 34.03,
+    "foil": 65.64
+  },
+  {
+    "name": "Maleficent",
+    "version": "Sinister Visitor",
+    "set": "The First Chapter",
+    "collector_number": "150",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.19
+  },
+  {
+    "name": "Maleficent",
+    "version": "Sorceress",
+    "set": "The First Chapter",
+    "collector_number": "49",
+    "rarity": "Common",
+    "normal": 0.16,
+    "foil": 1.18
+  },
+  {
+    "name": "Maleficent",
+    "version": "Uninvited",
+    "set": "The First Chapter",
+    "collector_number": "151",
+    "rarity": "Rare",
+    "normal": 0.11,
+    "foil": 1.1
+  },
+  {
+    "name": "Marshmallow",
+    "version": "Persistent Guardian",
+    "set": "The First Chapter",
+    "collector_number": "50",
+    "rarity": "Super_rare",
+    "normal": 0.24,
+    "foil": 1.08
+  },
+  {
+    "name": "Maui",
+    "version": "Demigod",
+    "set": "The First Chapter",
+    "collector_number": "185",
+    "rarity": "Rare",
+    "normal": 0.17,
+    "foil": 0.89
+  },
+  {
+    "name": "Maui",
+    "version": "Hero to All",
+    "set": "The First Chapter",
+    "collector_number": "114",
+    "rarity": "Rare",
+    "normal": 14.63,
+    "foil": 17.93
+  },
+  {
+    "name": "Maurice",
+    "version": "World-Famous Inventor",
+    "set": "The First Chapter",
+    "collector_number": "152",
+    "rarity": "Rare",
+    "normal": 0.32,
+    "foil": 1.39
+  },
+  {
+    "name": "Maximus",
+    "version": "Palace Horse",
+    "set": "The First Chapter",
+    "collector_number": "10",
+    "rarity": "Super_rare",
+    "normal": 0.42,
+    "foil": 1.58
+  },
+  {
+    "name": "Maximus",
+    "version": "Relentless Pursuer",
+    "set": "The First Chapter",
+    "collector_number": "11",
+    "rarity": "Uncommon",
+    "normal": 0.05,
+    "foil": 0.3
+  },
+  {
+    "name": "Megara",
+    "version": "Pulling the Strings",
+    "set": "The First Chapter",
+    "collector_number": "87",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.18
+  },
+  {
+    "name": "Merlin",
+    "version": "Self-Appointed Mentor",
+    "set": "The First Chapter",
+    "collector_number": "153",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.34
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Artful Rogue",
+    "set": "The First Chapter",
+    "collector_number": "88",
+    "rarity": "Super_rare",
+    "normal": 0.32,
+    "foil": 1.43
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Brave Little Tailor",
+    "set": "The First Chapter",
+    "collector_number": "115",
+    "rarity": "Legendary",
+    "normal": 4.42,
+    "foil": 49.65
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Detective",
+    "set": "The First Chapter",
+    "collector_number": "154",
+    "rarity": "Common",
+    "normal": 0.12,
+    "foil": 0.43
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Musketeer",
+    "set": "The First Chapter",
+    "collector_number": "186",
+    "rarity": "Rare",
+    "normal": 0.36,
+    "foil": 1.67
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Steamboat Pilot",
+    "set": "The First Chapter",
+    "collector_number": "89",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.26
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "True Friend",
+    "set": "The First Chapter",
+    "collector_number": "12",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.64
+  },
+  {
+    "name": "Mickey Mouse",
+    "version": "Wayward Sorcerer",
+    "set": "The First Chapter",
+    "collector_number": "51",
+    "rarity": "Super_rare",
+    "normal": 1.68,
+    "foil": 1.87
+  },
+  {
+    "name": "Minnie Mouse",
+    "version": "Always Classy",
+    "set": "The First Chapter",
+    "collector_number": "116",
+    "rarity": "Common",
+    "normal": 0.1,
+    "foil": 0.36
+  },
+  {
+    "name": "Minnie Mouse",
+    "version": "Beloved Princess",
+    "set": "The First Chapter",
+    "collector_number": "13",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.21
+  },
+  {
+    "name": "Moana",
+    "version": "Chosen by the Ocean",
+    "set": "The First Chapter",
+    "collector_number": "117",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.3
+  },
+  {
+    "name": "Moana",
+    "version": "Of Motunui",
+    "set": "The First Chapter",
+    "collector_number": "14",
+    "rarity": "Rare",
+    "normal": 0.28,
+    "foil": 0.36
+  },
+  {
+    "name": "Mother Gothel",
+    "version": "Selfish Manipulator",
+    "set": "The First Chapter",
+    "collector_number": "90",
+    "rarity": "Super_rare",
+    "normal": 0.54,
+    "foil": 1.23
+  },
+  {
+    "name": "Mother Knows Best",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "95",
+    "rarity": "Uncommon",
+    "normal": 0.13,
+    "foil": 1.75
+  },
+  {
+    "name": "Mr. Smee",
+    "version": "Loyal First Mate",
+    "set": "The First Chapter",
+    "collector_number": "15",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.23
+  },
+  {
+    "name": "Mufasa",
+    "version": "King of the Pride Lands",
+    "set": "The First Chapter",
+    "collector_number": "155",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.24
+  },
+  {
+    "name": "Mulan",
+    "version": "Imperial Soldier",
+    "set": "The First Chapter",
+    "collector_number": "118",
+    "rarity": "Super_rare",
+    "normal": 0,
+    "foil": 2.44
+  },
+  {
+    "name": "Musketeer Tabard",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "203",
+    "rarity": "Rare",
+    "normal": 0.32,
+    "foil": 1.59
+  },
+  {
+    "name": "Olaf",
+    "version": "Friendly Snowman",
+    "set": "The First Chapter",
+    "collector_number": "52",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 1.73
+  },
+  {
+    "name": "One Jump Ahead",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "164",
+    "rarity": "Uncommon",
+    "normal": 0.27,
+    "foil": 8.05
+  },
+  {
+    "name": "Part of Your World",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "30",
+    "rarity": "Rare",
+    "normal": 0.28,
+    "foil": 1.75
+  },
+  {
+    "name": "Pascal",
+    "version": "Rapunzel's Companion",
+    "set": "The First Chapter",
+    "collector_number": "53",
+    "rarity": "Uncommon",
+    "normal": 0.11,
+    "foil": 1.88
+  },
+  {
+    "name": "Peter Pan",
+    "version": "Fearless Fighter",
+    "set": "The First Chapter",
+    "collector_number": "119",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.28
+  },
+  {
+    "name": "Peter Pan",
+    "version": "Never Landing",
+    "set": "The First Chapter",
+    "collector_number": "91",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.19
+  },
+  {
+    "name": "Philoctetes",
+    "version": "Trainer of Heroes",
+    "set": "The First Chapter",
+    "collector_number": "156",
+    "rarity": "Common",
+    "normal": 0.07,
+    "foil": 0.32
+  },
+  {
+    "name": "Plasma Blaster",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "204",
+    "rarity": "Rare",
+    "normal": 0.16,
+    "foil": 0.81
+  },
+  {
+    "name": "Poisoned Apple",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "134",
+    "rarity": "Rare",
+    "normal": 0.26,
+    "foil": 0.89
+  },
+  {
+    "name": "Pongo",
+    "version": "Ol' Rascal",
+    "set": "The First Chapter",
+    "collector_number": "120",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.27
+  },
+  {
+    "name": "Prince Eric",
+    "version": "Dashing and Brave",
+    "set": "The First Chapter",
+    "collector_number": "187",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.3
+  },
+  {
+    "name": "Prince Phillip",
+    "version": "Dragonslayer",
+    "set": "The First Chapter",
+    "collector_number": "16",
+    "rarity": "Uncommon",
+    "normal": 0.13,
+    "foil": 0.35
+  },
+  {
+    "name": "Pumbaa",
+    "version": "Friendly Warthog",
+    "set": "The First Chapter",
+    "collector_number": "17",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.2
+  },
+  {
+    "name": "Rafiki",
+    "version": "Mysterious Sage",
+    "set": "The First Chapter",
+    "collector_number": "54",
+    "rarity": "Uncommon",
+    "normal": 0.05,
+    "foil": 0.52
+  },
+  {
+    "name": "Ransack",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "199",
+    "rarity": "Uncommon",
+    "normal": 0.06,
+    "foil": 0.33
+  },
+  {
+    "name": "Rapunzel",
+    "version": "Gifted with Healing",
+    "set": "The First Chapter",
+    "collector_number": "18",
+    "rarity": "Legendary",
+    "normal": 38.39,
+    "foil": 69.45
+  },
+  {
+    "name": "Rapunzel",
+    "version": "Letting Down Her Hair",
+    "set": "The First Chapter",
+    "collector_number": "121",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.35
+  },
+  {
+    "name": "Reflection",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "65",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.33
+  },
+  {
+    "name": "Robin Hood",
+    "version": "Unrivaled Archer",
+    "set": "The First Chapter",
+    "collector_number": "157",
+    "rarity": "Super_rare",
+    "normal": 0.28,
+    "foil": 1.65
+  },
+  {
+    "name": "Scar",
+    "version": "Fiery Usurper",
+    "set": "The First Chapter",
+    "collector_number": "122",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.25
+  },
+  {
+    "name": "Scar",
+    "version": "Mastermind",
+    "set": "The First Chapter",
+    "collector_number": "158",
+    "rarity": "Rare",
+    "normal": 0.11,
+    "foil": 0.86
+  },
+  {
+    "name": "Scar",
+    "version": "Shameless Firebrand",
+    "set": "The First Chapter",
+    "collector_number": "123",
+    "rarity": "Rare",
+    "normal": 0.18,
+    "foil": 1.19
+  },
+  {
+    "name": "Scepter of Arendelle",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "170",
+    "rarity": "Uncommon",
+    "normal": 0.12,
+    "foil": 0.39
+  },
+  {
+    "name": "Sebastian",
+    "version": "Court Composer",
+    "set": "The First Chapter",
+    "collector_number": "19",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.19
+  },
+  {
+    "name": "Sergeant Tibbs",
+    "version": "Courageous Cat",
+    "set": "The First Chapter",
+    "collector_number": "124",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.19
+  },
+  {
+    "name": "Shield of Virtue",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "135",
+    "rarity": "Uncommon",
+    "normal": 0.09,
+    "foil": 0.75
+  },
+  {
+    "name": "Simba",
+    "version": "Future King",
+    "set": "The First Chapter",
+    "collector_number": "188",
+    "rarity": "Common",
+    "normal": 0.13,
+    "foil": 0.4
+  },
+  {
+    "name": "Simba",
+    "version": "Protective Cub",
+    "set": "The First Chapter",
+    "collector_number": "20",
+    "rarity": "Common",
+    "normal": 0.26,
+    "foil": 0.86
+  },
+  {
+    "name": "Simba",
+    "version": "Returned King",
+    "set": "The First Chapter",
+    "collector_number": "189",
+    "rarity": "Rare",
+    "normal": 0.15,
+    "foil": 0.21
+  },
+  {
+    "name": "Simba",
+    "version": "Rightful Heir",
+    "set": "The First Chapter",
+    "collector_number": "190",
+    "rarity": "Uncommon",
+    "normal": 0.1,
+    "foil": 0.32
+  },
+  {
+    "name": "Smash",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "200",
+    "rarity": "Uncommon",
+    "normal": 0.13,
+    "foil": 1.82
+  },
+  {
+    "name": "Stampede",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "96",
+    "rarity": "Common",
+    "normal": 0.03,
+    "foil": 0.22
+  },
+  {
+    "name": "Starkey",
+    "version": "Hook's Henchman",
+    "set": "The First Chapter",
+    "collector_number": "191",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.33
+  },
+  {
+    "name": "Steal from the Rich",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "97",
+    "rarity": "Rare",
+    "normal": 0.16,
+    "foil": 0.8
+  },
+  {
+    "name": "Stitch",
+    "version": "Abomination",
+    "set": "The First Chapter",
+    "collector_number": "125",
+    "rarity": "Rare",
+    "normal": 0.14,
+    "foil": 1.33
+  },
+  {
+    "name": "Stitch",
+    "version": "Carefree Surfer",
+    "set": "The First Chapter",
+    "collector_number": "21",
+    "rarity": "Legendary",
+    "normal": 8.51,
+    "foil": 32.5
+  },
+  {
+    "name": "Stitch",
+    "version": "New Dog",
+    "set": "The First Chapter",
+    "collector_number": "22",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.54
+  },
+  {
+    "name": "Stitch",
+    "version": "Rock Star",
+    "set": "The First Chapter",
+    "collector_number": "23",
+    "rarity": "Super_rare",
+    "normal": 2.63,
+    "foil": 6.82
+  },
+  {
+    "name": "Stolen Scimitar",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "102",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.16
+  },
+  {
+    "name": "Sudden Chill",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "98",
+    "rarity": "Common",
+    "normal": 0.17,
+    "foil": 0.98
+  },
+  {
+    "name": "Sven",
+    "version": "Official Ice Deliverer",
+    "set": "The First Chapter",
+    "collector_number": "55",
+    "rarity": "Uncommon",
+    "normal": 0.04,
+    "foil": 0.26
+  },
+  {
+    "name": "Sword of Truth",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "136",
+    "rarity": "Rare",
+    "normal": 0.2,
+    "foil": 0.79
+  },
+  {
+    "name": "Tamatoa",
+    "version": "Drab Little Crab",
+    "set": "The First Chapter",
+    "collector_number": "92",
+    "rarity": "Uncommon",
+    "normal": 0.07,
+    "foil": 0.35
+  },
+  {
+    "name": "Tamatoa",
+    "version": "So Shiny!",
+    "set": "The First Chapter",
+    "collector_number": "159",
+    "rarity": "Super_rare",
+    "normal": 7.12,
+    "foil": 18.92
+  },
+  {
+    "name": "Tangle",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "133",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.2
+  },
+  {
+    "name": "Te Ka",
+    "version": "Heartless",
+    "set": "The First Chapter",
+    "collector_number": "192",
+    "rarity": "Legendary",
+    "normal": 2,
+    "foil": 11.67
+  },
+  {
+    "name": "Te Ka",
+    "version": "The Burning One",
+    "set": "The First Chapter",
+    "collector_number": "126",
+    "rarity": "Super_rare",
+    "normal": 0.16,
+    "foil": 1.06
+  },
+  {
+    "name": "The Beast is Mine!",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "99",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.36
+  },
+  {
+    "name": "The Queen",
+    "version": "Wicked and Vain",
+    "set": "The First Chapter",
+    "collector_number": "56",
+    "rarity": "Super_rare",
+    "normal": 0.33,
+    "foil": 1.22
+  },
+  {
+    "name": "The Wardrobe",
+    "version": "Belle's Confidant",
+    "set": "The First Chapter",
+    "collector_number": "57",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.2
+  },
+  {
+    "name": "Tigger",
+    "version": "Wonderful Thing",
+    "set": "The First Chapter",
+    "collector_number": "127",
+    "rarity": "Uncommon",
+    "normal": 0.09,
+    "foil": 0.65
+  },
+  {
+    "name": "Timon",
+    "version": "Grub Rustler",
+    "set": "The First Chapter",
+    "collector_number": "24",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.22
+  },
+  {
+    "name": "Tinker Bell",
+    "version": "Giant Fairy",
+    "set": "The First Chapter",
+    "collector_number": "193",
+    "rarity": "Super_rare",
+    "normal": 11.36,
+    "foil": 18.11
+  },
+  {
+    "name": "Tinker Bell",
+    "version": "Most Helpful",
+    "set": "The First Chapter",
+    "collector_number": "93",
+    "rarity": "Common",
+    "normal": 0.1,
+    "foil": 0.38
+  },
+  {
+    "name": "Tinker Bell",
+    "version": "Peter Pan's Ally",
+    "set": "The First Chapter",
+    "collector_number": "58",
+    "rarity": "Common",
+    "normal": 0.06,
+    "foil": 0.21
+  },
+  {
+    "name": "Tinker Bell",
+    "version": "Tiny Tactician",
+    "set": "The First Chapter",
+    "collector_number": "194",
+    "rarity": "Common",
+    "normal": 0.15,
+    "foil": 0.52
+  },
+  {
+    "name": "Triton",
+    "version": "The Sea King",
+    "set": "The First Chapter",
+    "collector_number": "160",
+    "rarity": "Uncommon",
+    "normal": 0.08,
+    "foil": 0.4
+  },
+  {
+    "name": "Ursula",
+    "version": "Power Hungry",
+    "set": "The First Chapter",
+    "collector_number": "59",
+    "rarity": "Legendary",
+    "normal": 3.1,
+    "foil": 18.78
+  },
+  {
+    "name": "Ursula's Cauldron",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "67",
+    "rarity": "Uncommon",
+    "normal": 0.11,
+    "foil": 0.5
+  },
+  {
+    "name": "Ursula's Shell Necklace",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "34",
+    "rarity": "Rare",
+    "normal": 0.22,
+    "foil": 1.1
+  },
+  {
+    "name": "Vicious Betrayal",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "100",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.21
+  },
+  {
+    "name": "White Rabbit's Pocket Watch",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "68",
+    "rarity": "Rare",
+    "normal": 0.24,
+    "foil": 1.18
+  },
+  {
+    "name": "Work Together",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "165",
+    "rarity": "Common",
+    "normal": 0.04,
+    "foil": 0.23
+  },
+  {
+    "name": "You Have Forgotten Me",
+    "version": "N/A",
+    "set": "The First Chapter",
+    "collector_number": "31",
+    "rarity": "Uncommon",
+    "normal": 0.15,
+    "foil": 1.11
+  },
+  {
+    "name": "Yzma",
+    "version": "Alchemist",
+    "set": "The First Chapter",
+    "collector_number": "60",
+    "rarity": "Common",
+    "normal": 0.05,
+    "foil": 0.2
+  },
+  {
+    "name": "Zeus",
+    "version": "God of Lightning",
+    "set": "The First Chapter",
+    "collector_number": "61",
+    "rarity": "Rare",
+    "normal": 0.31,
+    "foil": 1.4
+  }
+]
