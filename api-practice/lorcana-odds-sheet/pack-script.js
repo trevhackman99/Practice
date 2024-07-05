@@ -97,7 +97,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
         for (let i = 0; i < 2; i++) {
             let cardAdded = false;
             console.log("Slot Roll: ", slotRoll);
-            if (slotRoll <= rare) {
+            if (!cardAdded && slotRoll <= rare) {
                 let randomIndex = Math.floor(Math.random() * rareCards.length);
                 if (!pack.includes(rareCards[randomIndex])) {
                    
@@ -108,7 +108,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
                 }
             } 
                 
-            if (!cardAdded && slotRoll >= super_rare + rare) {
+            else if (!cardAdded && slotRoll <= super_rare + rare) {
                 let randomIndex = Math.floor(Math.random() * superRareCards.length);
                 if (!pack.includes(superRareCards[randomIndex])) {
                    
@@ -119,7 +119,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
 
                 }
             }
-            if (!cardAdded && slotRoll <= (2 - legendary)) {
+            else if (!cardAdded && slotRoll >= (2 - legendary)) {
                 let randomIndex = Math.floor(Math.random() * legendaryCards.length);
                 if (!pack.includes(legendaryCards[randomIndex])) {
                     
@@ -169,6 +169,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
 
                 
         loadPackResults(pack);
+        loadCardInfoStatistics(pack);
 }
 });
 
@@ -244,5 +245,62 @@ function loadPackResults(pack) {
         table.appendChild(row);
 
 
+
     }
 }
+
+function loadCardInfoStatistics(pack) {
+
+    const allPulledCards = [];
+
+    const uniqueCardIds = [];
+
+
+    for (let i = 0; i < pack.length; i++) {
+        pulledCard = {};
+        if (pack[i].rarity === "Super_rare" || pack[i].rarity === "Legendary" ||
+            pack[i].rarity === "Enchanted") {
+            
+            if (!allPulledCards.some(card => card.id === pack[i].id)) {
+                pulledCard.id = pack[i].id;
+                pulledCard.count = 1;
+                allPulledCards.push(pulledCard);
+                uniqueCardIds.push(pack[i].id);
+            } else {
+                allPulledCards.find(card => card.id === pack[i].id).count++;
+            }
+            
+        }
+
+    }
+
+
+
+
+
+    for (let card of uniqueCardIds) {
+        let table = document.getElementById('info-table');
+
+        let row = document.createElement('tr');
+        let cell = document.createElement('td');
+        let imgCell = document.createElement('td');
+        
+        let img = document.createElement('img');
+        img.src = cardData.find(cardData => cardData.id === card).img;
+
+        imgCell.appendChild(img);
+        
+        row.appendChild(imgCell);
+
+        cell.innerHTML = `${cardData.find(cardData => cardData.id === card).name} - ${cardData.find(cardData => cardData.id === card).version}`;
+        
+
+        row.appendChild(cell);
+        table.appendChild(row);
+
+        
+
+
+    }
+}
+

@@ -6,7 +6,9 @@ formattedData = []
 formattedJSON = 'formattedData.json'
 
 desiredKeys = [
+    "id",
     "name",
+    "img",
     "version",
     "set",
     "collector_number",
@@ -45,6 +47,9 @@ for card in data:
 
             if formattedCard['foil'] == None or formattedCard['foil'] < .24:
                 formattedCard["foil"] = .99
+
+        elif key == "img":
+            formattedCard[key] = card["image_uris"]["digital"]["small"]
  
         else:
 
