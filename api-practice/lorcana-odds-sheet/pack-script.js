@@ -32,6 +32,9 @@ window.onload = function() {
 
 document.getElementById('reset-btn').addEventListener('click', function() {
     packsOpenedCount = 0;
+    totalValue = 0;
+    maxPackValue = 0;
+    packValue = 0;
     superRareCounter = 0;
     legendaryCounter = 0;
 
@@ -40,6 +43,9 @@ document.getElementById('reset-btn').addEventListener('click', function() {
     enchantedCounter = 0;
 
     document.getElementById('packs-opened').innerHTML = `Packs Opened: ${packsOpenedCount}`;
+    document.getElementById('total-value').textContent = `Total Value: $${totalValue.toFixed(2)}`;
+    maxPackValueElement.textContent = "Max Pack Value: $" + maxPackValue.toFixed(2);
+    packValueElement.textContent = "Pack Value: $" + packValue.toFixed(2);
     document.getElementById('super-rare-counter').textContent = `Super Rares: ${superRareCounter}`;
     document.getElementById('legendary-counter').textContent = `Legendaries: ${legendaryCounter}`;
     document.getElementById('super-rare-foil-counter').textContent = `Super Rare Foils: ${superRareFoilCounter}`;
@@ -174,6 +180,9 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
 });
 
 packsOpenedCount = 0;
+totalValue = 0;
+maxPackValue = 0;
+
 superRareCounter = 0;
 legendaryCounter = 0;
 
@@ -217,6 +226,32 @@ function loadPackResults(pack) {
     packsOpened = document.getElementById('packs-opened');
     packsOpenedCount++;
     packsOpened.textContent = `Packs Opened: ${packsOpenedCount}`;
+
+    totalValueElement = document.getElementById('total-value');
+    packValueElement = document.getElementById('pack-value');
+    maxPackValueElement = document.getElementById('max-pack-value');
+
+    let packValue = 0;
+    console.log(pack.length)
+
+    for (let i = 0; i < pack.length; i++) {
+        if (i === (pack.length - 1)) {
+            packValue += pack[i].foil;
+            console.log("Card FOIL $ added: $" + pack[i].foil);
+        } else {
+            packValue += pack[i].normal;
+            console.log("Card $ added: $" + pack[i].normal);
+        }
+    }
+
+    totalValue += packValue;
+    if (maxPackValue < packValue) {
+        maxPackValue = packValue;
+    }
+
+    maxPackValueElement.textContent = "Max Pack Value: $" + maxPackValue.toFixed(2);
+    packValueElement.textContent = "Pack Value: $" + packValue.toFixed(2);
+    totalValueElement.textContent = "Total Value: $" + totalValue.toFixed(2);
     
     document.getElementById('main-table-body').innerHTML = "";
 
@@ -258,8 +293,7 @@ function loadCardInfoStatistics(pack) {
 
     for (let i = 0; i < pack.length; i++) {
         pulledCard = {};
-        if (pack[i].rarity === "Super_rare" || pack[i].rarity === "Legendary" ||
-            pack[i].rarity === "Enchanted") {
+        if ((pack[i].normal >= 5) || (pack[i].rarity === "Enchanted")) {
             
             if (!allPulledCards.some(card => card.id === pack[i].id)) {
                 pulledCard.id = pack[i].id;
@@ -292,10 +326,14 @@ function loadCardInfoStatistics(pack) {
         
         row.appendChild(imgCell);
 
+
         cell.innerHTML = `${cardData.find(cardData => cardData.id === card).name} - ${cardData.find(cardData => cardData.id === card).version}`;
         
 
         row.appendChild(cell);
+
+        cell.innerHTML = `${cardData.find(cardData => cardData.id === card).normal}`;
+
         table.appendChild(row);
 
         
