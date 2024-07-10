@@ -17,11 +17,26 @@ def fetch_data(url):
     # other keys are "page", "pageSize", "count", "totalCount"
     data = data["data"]
 
-    converto_to_file(data)
+    convertto_to_file(data)
 
-def converto_to_file(data):
+def convertto_to_file(data):
     with open('pokemon-tcg-data.json', 'w') as f:
         json.dump(data, f, indent=4)
         print("Data saved to file")
 
-fetch_data(url)
+
+
+def parseJSON():
+    with open('pokemon-tcg-data.json', 'r') as f:
+        data = json.load(f)
+        data = data["data"]
+        
+        
+        for dict in data:
+            for key in dict.keys():
+                print(key)
+                        
+
+
+
+parseJSON()

@@ -1,0 +1,8 @@
+1. Input card ids into json
+2. Input desired API endpoints in json
+3. Fetch necessary card data from Pokmeon TCG API
+4. Save the fetched card data into a new formatted json
+5. Insert the formatted json into a pandas df
+6. Input required header/column names into json ( use = "enter_desired_default_value" for columns that are not in the fetched data )
+7. Save the pandas df into a csv file with the headers/column names
+8. Manually verify the csv file for any missing data

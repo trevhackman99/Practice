@@ -1,0 +1,12 @@
+{
+    "ids": [
+        "sv6-1",
+        "sv6-100"
+    ],
+    "endpoints": [
+        "name",
+        "subtypes[0]",
+        ""
+
+    ]
+}
