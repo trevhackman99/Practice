@@ -11,13 +11,19 @@ def fetchLorcanaAPI():
 
         time.sleep(.5)
         
-        query = url + "/v0/cards/search?q=set:1"
+        query = url + "/v0/cards/search?q=set:3"
         response = requests.get(query)
         data = response.json()['results']
 
-        with open('data.json', 'w') as f:
-            json.dump(data, f)
         
+        
+
+        query = url + "/v0/cards/search?q=set:1+rarity:enchanted"
+        response = requests.get(query)
+        dataEnchanted = response.json()['results']
+        
+        with open('dataCombined.json', 'w') as f:
+            json.dump(data + dataEnchanted, f, indent=4)
 
         print("Success!")
 

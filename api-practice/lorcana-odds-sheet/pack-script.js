@@ -30,6 +30,22 @@ window.onload = function() {
     );
 };
 
+document.getElementById('gen-chart-btn').addEventListener('click', function() {
+    let chart = document.getElementById('chart');
+
+    
+
+    createChart = new Chart(chart, {
+        type: 'bar',
+        data: {
+            labels: '',
+            values: bbValue,
+        }
+
+    });
+});
+
+
 document.getElementById('reset-btn').addEventListener('click', function() {
     packsOpenedCount = 0;
     totalValue = 0;
@@ -37,15 +53,27 @@ document.getElementById('reset-btn').addEventListener('click', function() {
     packValue = 0;
     superRareCounter = 0;
     legendaryCounter = 0;
+    currentbbValue = 0;
+    bbValue = [];
+
 
     superRareFoilCounter = 0;
     legendaryFoilCounter = 0;
     enchantedCounter = 0;
 
+    expectedValue = 0;
+    avgValue = 0;
+
     document.getElementById('packs-opened').innerHTML = `Packs Opened: ${packsOpenedCount}`;
+
     document.getElementById('total-value').textContent = `Total Value: $${totalValue.toFixed(2)}`;
     maxPackValueElement.textContent = "Max Pack Value: $" + maxPackValue.toFixed(2);
     packValueElement.textContent = "Pack Value: $" + packValue.toFixed(2);
+    document.getElementById('expected-value').textContent = `EV per Pack: $${expectedValue.toFixed(2)}`;
+    document.getElementById('avg-value').textContent = `Average Value: $${avgValue.toFixed(2)}`;
+    document.getElementById('current-bb-value').textContent = `Current BB Value: $${currentbbValue.toFixed(2)}`;
+    document.getElementById('avg-bb-value').textContent = `Average BB Value: $0.00`;
+
     document.getElementById('super-rare-counter').textContent = `Super Rares: ${superRareCounter}`;
     document.getElementById('legendary-counter').textContent = `Legendaries: ${legendaryCounter}`;
     document.getElementById('super-rare-foil-counter').textContent = `Super Rare Foils: ${superRareFoilCounter}`;
@@ -53,14 +81,17 @@ document.getElementById('reset-btn').addEventListener('click', function() {
     document.getElementById('enchanted-counter').textContent = `Enchanted: ${enchantedCounter}`;
 
     document.getElementById('main-table-body').innerHTML = "";
+    document.getElementById('info-table').innerHTML = "";
 
-    
+    document.getElementById('chart').innerHTML = "";
 
 });
 
 document.getElementById('pack-open-btn').addEventListener('click', function() {
 
     const desiredPacks = document.getElementById('desiredPacks').value;
+
+    
 
     for (let totalPacksDesired = 0; totalPacksDesired < desiredPacks; totalPacksDesired++) {
         const pack = [];
@@ -180,8 +211,13 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
 });
 
 packsOpenedCount = 0;
+revolvingPackCount = 0;
+bbValue = [];
+currentbbValue = 0;
 totalValue = 0;
 maxPackValue = 0;
+expectedValue = 0;
+avgValue = 0;
 
 superRareCounter = 0;
 legendaryCounter = 0;
@@ -227,9 +263,13 @@ function loadPackResults(pack) {
     packsOpenedCount++;
     packsOpened.textContent = `Packs Opened: ${packsOpenedCount}`;
 
+    
+
     totalValueElement = document.getElementById('total-value');
     packValueElement = document.getElementById('pack-value');
     maxPackValueElement = document.getElementById('max-pack-value');
+    expectedValueElement = document.getElementById('expected-value');
+    avgValueElement = document.getElementById('avg-value');
 
     let packValue = 0;
     console.log(pack.length)
@@ -249,9 +289,37 @@ function loadPackResults(pack) {
         maxPackValue = packValue;
     }
 
+    avgValue = totalValue / packsOpenedCount;
+
+    avgValueElement.textContent = "Average Value: $" + avgValue.toFixed(2);
+
     maxPackValueElement.textContent = "Max Pack Value: $" + maxPackValue.toFixed(2);
     packValueElement.textContent = "Pack Value: $" + packValue.toFixed(2);
     totalValueElement.textContent = "Total Value: $" + totalValue.toFixed(2);
+
+    revolvingPackCount++;
+    
+
+    if (revolvingPackCount > 24) {
+        bbValue.push(currentbbValue);
+        currentbbValue = 0;
+        revolvingPackCount = 1;
+
+        avgbbValueElement = document.getElementById('avg-bb-value');
+        avgbbValueElement.textContent = "Average BB Value: $" + (bbValue.reduce((a, b) => a + b, 0) / bbValue.length).toFixed(2);
+        updateChart();
+
+    } else {
+        currentbbValue += packValue;
+    }
+
+    currentbbValueElement = document.getElementById('current-bb-value');
+    currentbbValueElement.textContent = "Current BB Value: $" + currentbbValue.toFixed(2);
+
+
+
+    
+
     
     document.getElementById('main-table-body').innerHTML = "";
 
@@ -341,4 +409,5 @@ function loadCardInfoStatistics(pack) {
 
     }
 }
+
 

@@ -39,13 +39,13 @@ for card in data:
             if formattedCard["rarity"] == "Enchanted":
                 formattedCard["normal"] = 0
 
-            elif formattedCard['normal'] == None or formattedCard['normal'] < .24:
-                formattedCard["normal"] = .24
+            elif formattedCard['normal'] == None or formattedCard['normal'] < .1:
+                formattedCard["normal"] = .1
 
 
             formattedCard["foil"] = card[key]['usd_foil']
 
-            if formattedCard['foil'] == None or formattedCard['foil'] < .24:
+            if formattedCard['foil'] == None or formattedCard['foil'] < .99:
                 formattedCard["foil"] = .99
 
         elif key == "img":
