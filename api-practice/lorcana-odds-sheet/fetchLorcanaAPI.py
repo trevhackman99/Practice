@@ -18,7 +18,7 @@ def fetchLorcanaAPI():
         
         
 
-        query = url + "/v0/cards/search?q=set:1+rarity:enchanted"
+        query = url + "/v0/cards/search?q=set:3+rarity:enchanted"
         response = requests.get(query)
         dataEnchanted = response.json()['results']
         

@@ -33,13 +33,37 @@ window.onload = function() {
 document.getElementById('gen-chart-btn').addEventListener('click', function() {
     let chart = document.getElementById('chart');
 
-    
+    let ranges = ['0-30', '31-60', '61-90', '91-120', '121-150', '151-180', '181-210', '211-240', '241-270', '271-300', '301-330', '331-360', '361-390', '391-420', '421-10000'];
+
+    let counts = ranges.map(function(range) {
+        let bounds = range.split('-').map(Number);
+        return bbValue.reduce(function(count, num) {
+            return (num >= bounds[0] && num <= bounds[1]) ? count + 1 : count;
+        }, 0);
+    })
+
+    console.log(bbValue)
 
     createChart = new Chart(chart, {
         type: 'bar',
         data: {
-            labels: '',
-            values: bbValue,
+            labels: ranges,
+            datasets: [{
+                label: 'Number of BBs',
+                data: counts,
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                    
+                },
+                x: {
+                    type: 'category',
+                    labels: ranges
+                }
+            }
         }
 
     });
@@ -133,7 +157,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
         let slotRoll = Math.random() * 2;
         for (let i = 0; i < 2; i++) {
             let cardAdded = false;
-            console.log("Slot Roll: ", slotRoll);
+            //console.log("Slot Roll: ", slotRoll);
             if (!cardAdded && slotRoll <= rare) {
                 let randomIndex = Math.floor(Math.random() * rareCards.length);
                 if (!pack.includes(rareCards[randomIndex])) {
@@ -168,7 +192,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
                 }
             }
             if (!cardAdded) {
-                console.log("DUPLICATE CARD PULLED! " + slotRoll);
+                // console.log("DUPLICATE CARD PULLED! " + slotRoll);
                 i--;
                 
             }
@@ -272,16 +296,20 @@ function loadPackResults(pack) {
     avgValueElement = document.getElementById('avg-value');
 
     let packValue = 0;
-    console.log(pack.length)
+    //console.log(pack.length)
 
     for (let i = 0; i < pack.length; i++) {
         if (i === (pack.length - 1)) {
             packValue += pack[i].foil;
-            console.log("Card FOIL $ added: $" + pack[i].foil);
+           // console.log("Card FOIL $ added: $" + pack[i].foil);
         } else {
             packValue += pack[i].normal;
-            console.log("Card $ added: $" + pack[i].normal);
+           // console.log("Card $ added: $" + pack[i].normal);
         }
+    }
+
+    if (packValue > 300) {
+        highValuePack(pack, packValue);
     }
 
     totalValue += packValue;
@@ -307,7 +335,7 @@ function loadPackResults(pack) {
 
         avgbbValueElement = document.getElementById('avg-bb-value');
         avgbbValueElement.textContent = "Average BB Value: $" + (bbValue.reduce((a, b) => a + b, 0) / bbValue.length).toFixed(2);
-        updateChart();
+        
 
     } else {
         currentbbValue += packValue;
@@ -352,6 +380,7 @@ function loadPackResults(pack) {
     }
 }
 
+
 function loadCardInfoStatistics(pack) {
 
     const allPulledCards = [];
@@ -378,7 +407,7 @@ function loadCardInfoStatistics(pack) {
 
 
 
-
+/*
 
     for (let card of uniqueCardIds) {
         let table = document.getElementById('info-table');
@@ -407,7 +436,20 @@ function loadCardInfoStatistics(pack) {
         
 
 
-    }
+    } */
 }
 
+function highValuePack(pack) {
+    console.log("High Value Pack Opened!");
+
+    for (let i = 0; i < pack.length; i++) {
+        if (i < pack.length - 1) {
+            console.log(pack[i].name + " " + pack[i].normal);
+        } else {
+            console.log(pack[i].name + " " + pack[i].foil);
+        }
+        
+    }
+
+}
 

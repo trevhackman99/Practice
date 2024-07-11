@@ -41,7 +41,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.11,
+            "usd": 0.1,
             "usd_foil": 0.34
         }
     },
@@ -89,7 +89,7 @@
         },
         "prices": {
             "usd": 0.06,
-            "usd_foil": 0.22
+            "usd_foil": 0.17
         }
     },
     {
@@ -135,7 +135,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.14
+            "usd_foil": 0.13
         }
     },
     {
@@ -186,7 +186,7 @@
         },
         "prices": {
             "usd": 0.19,
-            "usd_foil": 0.79
+            "usd_foil": 0.82
         }
     },
     {
@@ -232,8 +232,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 4.22,
-            "usd_foil": 7.24
+            "usd": 4.04,
+            "usd_foil": 7.26
         }
     },
     {
@@ -285,8 +285,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.18,
-            "usd_foil": 0.94
+            "usd": 0.15,
+            "usd_foil": 0.97
         }
     },
     {
@@ -338,7 +338,7 @@
         },
         "prices": {
             "usd": 0.14,
-            "usd_foil": 0.45
+            "usd_foil": 0.46
         }
     },
     {
@@ -384,7 +384,7 @@
         },
         "prices": {
             "usd": 0.13,
-            "usd_foil": 0.43
+            "usd_foil": 0.44
         }
     },
     {
@@ -429,8 +429,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
-            "usd_foil": 0.47
+            "usd": 0.12,
+            "usd_foil": 0.54
         }
     },
     {
@@ -481,8 +481,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.36,
-            "usd_foil": 1.23
+            "usd": 0.34,
+            "usd_foil": 1.28
         }
     },
     {
@@ -528,7 +528,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
+            "usd": 0.18,
             "usd_foil": 0.47
         }
     },
@@ -772,7 +772,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.08,
+            "usd": 0.09,
             "usd_foil": 0.12
         }
     },
@@ -824,7 +824,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.21,
+            "usd": 0.17,
             "usd_foil": 0.55
         }
     },
@@ -920,7 +920,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.48,
+            "usd": 0.54,
             "usd_foil": 2.36
         }
     },
@@ -970,8 +970,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.62,
-            "usd_foil": 6.69
+            "usd": 1.54,
+            "usd_foil": 6.63
         }
     },
     {
@@ -1022,7 +1022,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.12
+            "usd_foil": 0.11
         }
     },
     {
@@ -1166,8 +1166,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 2.97,
-            "usd_foil": 5.7
+            "usd": 2.86,
+            "usd_foil": 5.81
         }
     },
     {
@@ -1216,7 +1216,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.67,
+            "usd": 0.7,
             "usd_foil": 0.88
         }
     },
@@ -1269,7 +1269,7 @@
         },
         "prices": {
             "usd": 0.03,
-            "usd_foil": 0.13
+            "usd_foil": 0.12
         }
     },
     {
@@ -1315,7 +1315,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.06,
+            "usd": 0.07,
             "usd_foil": 0.15
         }
     },
@@ -1368,7 +1368,7 @@
         },
         "prices": {
             "usd": 0.06,
-            "usd_foil": 0.22
+            "usd_foil": 0.23
         }
     },
     {
@@ -1463,8 +1463,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
-            "usd_foil": 0.18
+            "usd": 0.06,
+            "usd_foil": 0.17
         }
     },
     {
@@ -1564,7 +1564,7 @@
         },
         "prices": {
             "usd": 0.02,
-            "usd_foil": 0.13
+            "usd_foil": 0.14
         }
     },
     {
@@ -1615,8 +1615,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.09,
-            "usd_foil": 0.26
+            "usd": 0.08,
+            "usd_foil": 0.25
         }
     },
     {
@@ -1713,7 +1713,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.18
+            "usd_foil": 0.17
         }
     },
     {
@@ -1860,7 +1860,7 @@
         },
         "prices": {
             "usd": 0.09,
-            "usd_foil": 0.27
+            "usd_foil": 0.26
         }
     },
     {
@@ -1906,7 +1906,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.19,
+            "usd": 0.18,
             "usd_foil": 0.54
         }
     },
@@ -1956,7 +1956,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.07,
+            "usd": 0.08,
             "usd_foil": 0.21
         }
     },
@@ -2007,7 +2007,7 @@
         },
         "prices": {
             "usd": 0.22,
-            "usd_foil": 0.84
+            "usd_foil": 0.87
         }
     },
     {
@@ -2102,8 +2102,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.1,
-            "usd_foil": 0.47
+            "usd": 0.09,
+            "usd_foil": 0.48
         }
     },
     {
@@ -2154,7 +2154,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 2.47,
+            "usd": 2.29,
             "usd_foil": 3.6
         }
     },
@@ -2204,7 +2204,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.12,
+            "usd": 0.11,
             "usd_foil": 0.44
         }
     },
@@ -2255,7 +2255,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.1,
+            "usd": 0.11,
             "usd_foil": 0.34
         }
     },
@@ -2306,7 +2306,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.23,
+            "usd": 0.22,
             "usd_foil": 0.51
         }
     },
@@ -2400,8 +2400,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
-            "usd_foil": 0.24
+            "usd": 0.06,
+            "usd_foil": 0.26
         }
     },
     {
@@ -2446,7 +2446,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.14,
+            "usd": 0.13,
             "usd_foil": 0.54
         }
     },
@@ -2492,7 +2492,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
+            "usd": 0.16,
             "usd_foil": 0.61
         }
     },
@@ -2594,7 +2594,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.23,
+            "usd": 0.24,
             "usd_foil": 0.87
         }
     },
@@ -2743,7 +2743,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.18,
+            "usd": 0.16,
             "usd_foil": 0.66
         }
     },
@@ -2795,8 +2795,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.12,
-            "usd_foil": 0.46
+            "usd": 0.11,
+            "usd_foil": 0.45
         }
     },
     {
@@ -2844,8 +2844,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.93,
-            "usd_foil": 4.82
+            "usd": 1.75,
+            "usd_foil": 4.71
         }
     },
     {
@@ -2894,8 +2894,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.1,
-            "usd_foil": 0.33
+            "usd": 0.09,
+            "usd_foil": 0.32
         }
     },
     {
@@ -2946,7 +2946,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.04,
+            "usd": 0.06,
             "usd_foil": 0.13
         }
     },
@@ -3041,7 +3041,7 @@
         },
         "prices": {
             "usd": 0.07,
-            "usd_foil": 0.25
+            "usd_foil": 0.24
         }
     },
     {
@@ -3088,7 +3088,7 @@
         },
         "prices": {
             "usd": 0.08,
-            "usd_foil": 0.18
+            "usd_foil": 0.19
         }
     },
     {
@@ -3192,8 +3192,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 7.07,
-            "usd_foil": 13.26
+            "usd": 7.28,
+            "usd_foil": 13.22
         }
     },
     {
@@ -3294,8 +3294,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 8.51,
-            "usd_foil": 10.53
+            "usd": 8.36,
+            "usd_foil": 10.66
         }
     },
     {
@@ -3344,7 +3344,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.03,
+            "usd": 0.04,
             "usd_foil": 0.14
         }
     },
@@ -3397,8 +3397,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.41,
-            "usd_foil": 0.85
+            "usd": 0.44,
+            "usd_foil": 0.83
         }
     },
     {
@@ -3445,7 +3445,7 @@
         },
         "prices": {
             "usd": 0.09,
-            "usd_foil": 0.27
+            "usd_foil": 0.26
         }
     },
     {
@@ -3547,7 +3547,7 @@
         },
         "prices": {
             "usd": 0.03,
-            "usd_foil": 0.14
+            "usd_foil": 0.13
         }
     },
     {
@@ -3597,8 +3597,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.08,
-            "usd_foil": 0.4
+            "usd": 0.07,
+            "usd_foil": 0.37
         }
     },
     {
@@ -3650,7 +3650,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 7.76,
+            "usd": 8.02,
             "usd_foil": 11.02
         }
     },
@@ -3704,7 +3704,7 @@
         },
         "prices": {
             "usd": 0.07,
-            "usd_foil": 0.18
+            "usd_foil": 0.17
         }
     },
     {
@@ -3859,7 +3859,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.06,
+            "usd": 0.07,
             "usd_foil": 0.22
         }
     },
@@ -3909,7 +3909,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
+            "usd": 0.08,
             "usd_foil": 0.34
         }
     },
@@ -3957,7 +3957,7 @@
         },
         "prices": {
             "usd": 0.12,
-            "usd_foil": 0.22
+            "usd_foil": 0.21
         }
     },
     {
@@ -4056,7 +4056,7 @@
         },
         "prices": {
             "usd": 0.05,
-            "usd_foil": 0.14
+            "usd_foil": 0.15
         }
     },
     {
@@ -4160,7 +4160,7 @@
         },
         "prices": {
             "usd": 0.07,
-            "usd_foil": 0.25
+            "usd_foil": 0.26
         }
     },
     {
@@ -4261,8 +4261,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
-            "usd_foil": 0.77
+            "usd": 0.18,
+            "usd_foil": 0.8
         }
     },
     {
@@ -4307,8 +4307,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 14.12,
-            "usd_foil": 21.75
+            "usd": 14.06,
+            "usd_foil": 21.65
         }
     },
     {
@@ -4357,7 +4357,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.21,
+            "usd": 0.2,
             "usd_foil": 0.91
         }
     },
@@ -4459,8 +4459,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 3.17,
-            "usd_foil": 14.43
+            "usd": 3.19,
+            "usd_foil": 14.34
         }
     },
     {
@@ -4510,7 +4510,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.04,
+            "usd": 0.06,
             "usd_foil": 0.15
         }
     },
@@ -4564,7 +4564,7 @@
         },
         "prices": {
             "usd": 0.19,
-            "usd_foil": 0.63
+            "usd_foil": 0.64
         }
     },
     {
@@ -4716,8 +4716,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.1,
-            "usd_foil": 0.35
+            "usd": 0.08,
+            "usd_foil": 0.32
         }
     },
     {
@@ -4766,8 +4766,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.1,
-            "usd_foil": 0.33
+            "usd": 0.09,
+            "usd_foil": 0.32
         }
     },
     {
@@ -4818,8 +4818,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.08,
-            "usd_foil": 0.23
+            "usd": 0.07,
+            "usd_foil": 0.21
         }
     },
     {
@@ -4919,8 +4919,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 2.57,
-            "usd_foil": 5.39
+            "usd": 2.82,
+            "usd_foil": 5.23
         }
     },
     {
@@ -4969,8 +4969,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.15,
-            "usd_foil": 0.51
+            "usd": 0.16,
+            "usd_foil": 0.5
         }
     },
     {
@@ -5066,7 +5066,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.19,
+            "usd": 0.2,
             "usd_foil": 0.49
         }
     },
@@ -5171,7 +5171,7 @@
         },
         "prices": {
             "usd": 0.11,
-            "usd_foil": 0.46
+            "usd_foil": 0.47
         }
     },
     {
@@ -5216,8 +5216,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.22,
-            "usd_foil": 1.58
+            "usd": 0.2,
+            "usd_foil": 1.52
         }
     },
     {
@@ -5263,8 +5263,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.25,
-            "usd_foil": 0.65
+            "usd": 0.27,
+            "usd_foil": 0.66
         }
     },
     {
@@ -5310,7 +5310,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.14,
+            "usd": 0.13,
             "usd_foil": 0.47
         }
     },
@@ -5410,8 +5410,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 2.3,
-            "usd_foil": 4.66
+            "usd": 2.2,
+            "usd_foil": 4.84
         }
     },
     {
@@ -5513,8 +5513,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.98,
-            "usd_foil": 2.92
+            "usd": 1.8,
+            "usd_foil": 2.93
         }
     },
     {
@@ -5614,7 +5614,7 @@
         },
         "prices": {
             "usd": 0.05,
-            "usd_foil": 0.18
+            "usd_foil": 0.17
         }
     },
     {
@@ -5665,7 +5665,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.24,
+            "usd": 0.21,
             "usd_foil": 0.54
         }
     },
@@ -5772,7 +5772,7 @@
         },
         "prices": {
             "usd": 0.12,
-            "usd_foil": 0.27
+            "usd_foil": 0.26
         }
     },
     {
@@ -5875,8 +5875,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.68,
-            "usd_foil": 4.25
+            "usd": 1.62,
+            "usd_foil": 4.27
         }
     },
     {
@@ -5923,7 +5923,7 @@
         },
         "prices": {
             "usd": 0.08,
-            "usd_foil": 0.31
+            "usd_foil": 0.33
         }
     },
     {
@@ -5973,8 +5973,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.58,
-            "usd_foil": 3.41
+            "usd": 0.7,
+            "usd_foil": 3.36
         }
     },
     {
@@ -6271,7 +6271,7 @@
         },
         "prices": {
             "usd": 0.09,
-            "usd_foil": 0.16
+            "usd_foil": 0.17
         }
     },
     {
@@ -6413,7 +6413,7 @@
         },
         "prices": {
             "usd": 0.11,
-            "usd_foil": 0.27
+            "usd_foil": 0.26
         }
     },
     {
@@ -6512,7 +6512,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.04,
+            "usd": 0.05,
             "usd_foil": 0.2
         }
     },
@@ -6562,7 +6562,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 4.54,
+            "usd": 4.88,
             "usd_foil": 10.03
         }
     },
@@ -6717,7 +6717,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.19,
+            "usd": 0.23,
             "usd_foil": 0.5
         }
     },
@@ -6769,8 +6769,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.83,
-            "usd_foil": 3.11
+            "usd": 1.75,
+            "usd_foil": 3.07
         }
     },
     {
@@ -6822,8 +6822,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.16,
-            "usd_foil": 0.87
+            "usd": 0.15,
+            "usd_foil": 0.89
         }
     },
     {
@@ -6873,7 +6873,7 @@
         },
         "prices": {
             "usd": 0.11,
-            "usd_foil": 0.8
+            "usd_foil": 0.89
         }
     },
     {
@@ -6922,8 +6922,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
-            "usd_foil": 0.15
+            "usd": 0.06,
+            "usd_foil": 0.16
         }
     },
     {
@@ -6972,7 +6972,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.21,
+            "usd": 0.2,
             "usd_foil": 0.42
         }
     },
@@ -7019,8 +7019,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.69,
-            "usd_foil": 1.97
+            "usd": 0.68,
+            "usd_foil": 2
         }
     },
     {
@@ -7071,7 +7071,7 @@
         },
         "prices": {
             "usd": 0.36,
-            "usd_foil": 1.55
+            "usd_foil": 1.57
         }
     },
     {
@@ -7171,8 +7171,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.06,
-            "usd_foil": 0.16
+            "usd": 0.07,
+            "usd_foil": 0.15
         }
     },
     {
@@ -7272,8 +7272,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.09,
-            "usd_foil": 0.29
+            "usd": 0.1,
+            "usd_foil": 0.3
         }
     },
     {
@@ -7371,7 +7371,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.09,
+            "usd": 0.79,
             "usd_foil": 3.46
         }
     },
@@ -7423,7 +7423,7 @@
         },
         "prices": {
             "usd": 0.05,
-            "usd_foil": 0.16
+            "usd_foil": 0.15
         }
     },
     {
@@ -7469,7 +7469,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.13
+            "usd_foil": 0.14
         }
     },
     {
@@ -7514,7 +7514,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
+            "usd": 0.18,
             "usd_foil": 0.66
         }
     },
@@ -7561,8 +7561,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.48,
-            "usd_foil": 1.29
+            "usd": 0.53,
+            "usd_foil": 1.3
         }
     },
     {
@@ -7611,8 +7611,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.13,
-            "usd_foil": 1.95
+            "usd": 0.12,
+            "usd_foil": 1.81
         }
     },
     {
@@ -7663,8 +7663,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 42.47,
-            "usd_foil": 54.79
+            "usd": 41.66,
+            "usd_foil": 54.57
         }
     },
     {
@@ -7713,7 +7713,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.2,
+            "usd": 0.19,
             "usd_foil": 0.89
         }
     },
@@ -7759,8 +7759,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.08,
-            "usd_foil": 0.23
+            "usd": 0.07,
+            "usd_foil": 0.22
         }
     },
     {
@@ -7812,7 +7812,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.25
+            "usd_foil": 0.24
         }
     },
     {
@@ -7862,7 +7862,7 @@
         },
         "prices": {
             "usd": 0.03,
-            "usd_foil": 0.15
+            "usd_foil": 0.14
         }
     },
     {
@@ -7911,8 +7911,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.25,
-            "usd_foil": 0.38
+            "usd": 0.26,
+            "usd_foil": 0.41
         }
     },
     {
@@ -7961,7 +7961,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.09,
+            "usd": 0.08,
             "usd_foil": 0.27
         }
     },
@@ -8007,7 +8007,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.09,
+            "usd": 0.1,
             "usd_foil": 0.24
         }
     },
@@ -8160,7 +8160,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.23,
+            "usd": 0.22,
             "usd_foil": 0.78
         }
     },
@@ -8211,7 +8211,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.31,
+            "usd": 0.25,
             "usd_foil": 1.44
         }
     },
@@ -8263,7 +8263,7 @@
         },
         "prices": {
             "usd": 0.04,
-            "usd_foil": 0.22
+            "usd_foil": 0.23
         }
     },
     {
@@ -8313,7 +8313,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.26,
+            "usd": 0.23,
             "usd_foil": 0.86
         }
     },
@@ -8469,7 +8469,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.04,
+            "usd": 0.05,
             "usd_foil": 0.18
         }
     },
@@ -8567,7 +8567,7 @@
         },
         "prices": {
             "usd": 0.12,
-            "usd_foil": 0.33
+            "usd_foil": 0.32
         }
     },
     {
@@ -8724,8 +8724,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.23,
-            "usd_foil": 0.45
+            "usd": 0.18,
+            "usd_foil": 0.46
         }
     },
     {
@@ -8771,8 +8771,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.06,
-            "usd_foil": 0.43
+            "usd": 0.05,
+            "usd_foil": 0.42
         }
     },
     {
@@ -8817,7 +8817,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.09,
+            "usd": 0.1,
             "usd_foil": 0.25
         }
     },
@@ -8867,7 +8867,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
+            "usd": 0.06,
             "usd_foil": 0.24
         }
     },
@@ -8914,7 +8914,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 1.34,
+            "usd": 1.28,
             "usd_foil": 3.67
         }
     },
@@ -8962,7 +8962,7 @@
         },
         "prices": {
             "usd": 0.13,
-            "usd_foil": 0.33
+            "usd_foil": 0.32
         }
     },
     {
@@ -9008,7 +9008,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.39,
+            "usd": 0.4,
             "usd_foil": 1
         }
     },
@@ -9059,7 +9059,7 @@
         },
         "prices": {
             "usd": 0.08,
-            "usd_foil": 0.17
+            "usd_foil": 0.16
         }
     },
     {
@@ -9104,8 +9104,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.17,
-            "usd_foil": 0.37
+            "usd": 0.18,
+            "usd_foil": 0.42
         }
     },
     {
@@ -9208,7 +9208,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.05,
+            "usd": 0.06,
             "usd_foil": 0.21
         }
     },
@@ -9255,8 +9255,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 14.23,
-            "usd_foil": 19.74
+            "usd": 13.93,
+            "usd_foil": 19.7
         }
     },
     {
@@ -9348,8 +9348,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.25,
-            "usd_foil": 1.06
+            "usd": 0.3,
+            "usd_foil": 1.05
         }
     },
     {
@@ -9396,7 +9396,7 @@
         },
         "prices": {
             "usd": 0.09,
-            "usd_foil": 0.35
+            "usd_foil": 0.37
         }
     },
     {
@@ -9546,7 +9546,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.13,
+            "usd": 0.11,
             "usd_foil": 0.42
         }
     },
@@ -9647,8 +9647,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.43,
-            "usd_foil": 4.52
+            "usd": 0.42,
+            "usd_foil": 4.42
         }
     },
     {
@@ -9698,8 +9698,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 26.31,
-            "usd_foil": 38.22
+            "usd": 25.64,
+            "usd_foil": 38.02
         }
     },
     {
@@ -9749,7 +9749,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.18,
+            "usd": 0.16,
             "usd_foil": 0.46
         }
     },
@@ -9795,7 +9795,7 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.04,
+            "usd": 0.03,
             "usd_foil": 0.18
         }
     },
@@ -9945,7 +9945,7 @@
         },
         "prices": {
             "usd": 0.21,
-            "usd_foil": 0.53
+            "usd_foil": 0.52
         }
     },
     {
@@ -9994,8 +9994,8 @@
             "name": "Into the Inklands"
         },
         "prices": {
-            "usd": 0.06,
-            "usd_foil": 0.35
+            "usd": 0.05,
+            "usd_foil": 0.34
         }
     },
     {
@@ -10047,7 +10047,7 @@
         },
         "prices": {
             "usd": 0.05,
-            "usd_foil": 0.32
+            "usd_foil": 0.33
         }
     },
     {
@@ -10147,607 +10147,585 @@
         }
     },
     {
-        "id": "crd_7c621010e3e6471d9916eee4bcd0b11d",
-        "name": "Aladdin",
-        "version": "Heroic Outlaw",
+        "id": "crd_0bd8f734ff064b3881191b916f8354cf",
+        "name": "And Then Along Came Zeus",
         "layout": "normal",
-        "released_at": "2023-08-18",
+        "released_at": "2024-02-23",
         "image_uris": {
             "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_7c621010e3e6471d9916eee4bcd0b11d.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7c621010e3e6471d9916eee4bcd0b11d.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_7c621010e3e6471d9916eee4bcd0b11d.avif?1709690747"
+                "small": "https://cards.lorcast.io/card/digital/small/crd_0bd8f734ff064b3881191b916f8354cf.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_0bd8f734ff064b3881191b916f8354cf.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_0bd8f734ff064b3881191b916f8354cf.avif?1709690747"
             }
         },
-        "cost": 7,
+        "cost": 4,
+        "inkwell": false,
+        "ink": "Steel",
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "(A character with cost 4 or more can {E} to sing this song for free.) Deal 5 damage to chosen character or location.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Leonardo Giammichele"
+        ],
+        "collector_number": "222",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539173,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 104.83
+        }
+    },
+    {
+        "id": "crd_c9f08696c3cd44bf96e2a149bb3cfb12",
+        "name": "Belle's House",
+        "version": "Maurice's Workshop",
+        "layout": "landscape",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_c9f08696c3cd44bf96e2a149bb3cfb12.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_c9f08696c3cd44bf96e2a149bb3cfb12.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_c9f08696c3cd44bf96e2a149bb3cfb12.avif?1709690747"
+            }
+        },
+        "cost": 1,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "type": [
+            "Location"
+        ],
+        "classifications": null,
+        "text": "LABORATORY If you have a character here, you pay 1 {I} less to play items.",
+        "keywords": [],
+        "move_cost": 2,
+        "strength": null,
+        "willpower": 6,
+        "lore": 0,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Pablo J. Rivera"
+        ],
+        "collector_number": "219",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539169,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 58.97
+        }
+    },
+    {
+        "id": "crd_266d7d17b42a44be9472057e4e6dd1b1",
+        "name": "Captain Hook",
+        "version": "Master Swordsman",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_266d7d17b42a44be9472057e4e6dd1b1.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_266d7d17b42a44be9472057e4e6dd1b1.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_266d7d17b42a44be9472057e4e6dd1b1.avif?1709690747"
+            }
+        },
+        "cost": 5,
         "inkwell": true,
         "ink": "Ruby",
         "type": [
             "Character"
         ],
         "classifications": [
-            "Floodborn",
-            "Hero"
+            "Dreamborn",
+            "Villain",
+            "Pirate",
+            "Captain"
         ],
-        "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Aladdin.)\nDARING EXPLOIT During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.",
-        "keywords": [
-            "Shift"
-        ],
-        "move_cost": null,
-        "strength": 5,
-        "willpower": 5,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Massimiliano Narciso"
-        ],
-        "collector_number": "211",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510157,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 139.42
-        }
-    },
-    {
-        "id": "crd_72fe56f4aa85484284d8e3632d06ad9b",
-        "name": "Aurora",
-        "version": "Dreaming Guardian",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_72fe56f4aa85484284d8e3632d06ad9b.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_72fe56f4aa85484284d8e3632d06ad9b.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_72fe56f4aa85484284d8e3632d06ad9b.avif?1709690747"
-            }
-        },
-        "cost": 5,
-        "inkwell": true,
-        "ink": "Sapphire",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Floodborn",
-            "Hero",
-            "Princess"
-        ],
-        "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Aurora.)\nPROTECTIVE EMBRACE Your other characters gain Ward. (Opponents can't choose them except to challenge.)",
-        "keywords": [
-            "Shift"
-        ],
-        "move_cost": null,
-        "strength": 3,
-        "willpower": 5,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Clio Wolfensberger"
-        ],
-        "collector_number": "213",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510159,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 266.38
-        }
-    },
-    {
-        "id": "crd_021c1d57c42d4fb7836097cbe9eacfb7",
-        "name": "Belle",
-        "version": "Strange but Special",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_021c1d57c42d4fb7836097cbe9eacfb7.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_021c1d57c42d4fb7836097cbe9eacfb7.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_021c1d57c42d4fb7836097cbe9eacfb7.avif?1709690747"
-            }
-        },
-        "cost": 4,
-        "inkwell": true,
-        "ink": "Sapphire",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Storyborn",
-            "Hero",
-            "Princess"
-        ],
-        "text": "READ A BOOK During your turn, you may put an additional card from your hand into your inkwell facedown.\nMY FAVORITE PART! While you have 10 or more cards in your inkwell, this character gets +4 {L}.",
+        "text": "NEMESIS During your turn, whenever this character banishes another character in a challenge, ready this character. He can't quest for the rest of this turn.\nMAN-TO-MAN Characters named Peter Pan lose Evasive and can't gain Evasive.",
         "keywords": [],
         "move_cost": null,
-        "strength": 2,
+        "strength": 5,
         "willpower": 4,
         "lore": 1,
         "rarity": "Enchanted",
         "illustrators": [
-            "Valerio Buonfantino"
+            "Kuya Jaypi"
         ],
         "collector_number": "214",
         "lang": "en",
         "flavor_text": null,
-        "tcgplayer_id": 510161,
+        "tcgplayer_id": 539166,
         "legalities": {
             "core": "legal"
         },
         "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
         },
         "prices": {
             "usd": null,
-            "usd_foil": 299.43
+            "usd_foil": 76.76
         }
     },
     {
-        "id": "crd_cbc18e77d7ec4d50bf19650a9a559686",
-        "name": "Elsa",
-        "version": "Spirit of Winter",
+        "id": "crd_7a288d030d1a471fbb818ccfdddc6052",
+        "name": "Chernabog",
+        "version": "Evildoer",
         "layout": "normal",
-        "released_at": "2023-08-18",
+        "released_at": "2024-02-23",
         "image_uris": {
             "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_cbc18e77d7ec4d50bf19650a9a559686.avif?1709690747"
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7a288d030d1a471fbb818ccfdddc6052.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7a288d030d1a471fbb818ccfdddc6052.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7a288d030d1a471fbb818ccfdddc6052.avif?1709690747"
             }
         },
-        "cost": 8,
-        "inkwell": false,
-        "ink": "Amethyst",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Floodborn",
-            "Hero",
-            "Queen",
-            "Sorcerer"
-        ],
-        "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.)\nDEEP FREEZE When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.",
-        "keywords": [
-            "Shift"
-        ],
-        "move_cost": null,
-        "strength": 4,
-        "willpower": 6,
-        "lore": 3,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Matthew Robert Davies"
-        ],
-        "collector_number": "207",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510153,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 1051.56
-        }
-    },
-    {
-        "id": "crd_ae7e91462bfc4861bbf97e99ed53a1c1",
-        "name": "Genie",
-        "version": "On the Job",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_ae7e91462bfc4861bbf97e99ed53a1c1.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_ae7e91462bfc4861bbf97e99ed53a1c1.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_ae7e91462bfc4861bbf97e99ed53a1c1.avif?1709690747"
-            }
-        },
-        "cost": 6,
-        "inkwell": false,
-        "ink": "Emerald",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Storyborn",
-            "Ally"
-        ],
-        "text": "Evasive (Only characters with Evasive can challenge this character.)\nDISAPPEAR When you play this character, you may return chosen character to their player's hand.",
-        "keywords": [
-            "Evasive"
-        ],
-        "move_cost": null,
-        "strength": 3,
-        "willpower": 4,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Cristian Romero"
-        ],
-        "collector_number": "209",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510155,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 135.34
-        }
-    },
-    {
-        "id": "crd_a9c86e6316084d76a03b32be95977091",
-        "name": "Hades",
-        "version": "King of Olympus",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_a9c86e6316084d76a03b32be95977091.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_a9c86e6316084d76a03b32be95977091.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_a9c86e6316084d76a03b32be95977091.avif?1709690747"
-            }
-        },
-        "cost": 8,
+        "cost": 10,
         "inkwell": false,
         "ink": "Amber",
         "type": [
             "Character"
         ],
         "classifications": [
-            "Floodborn",
-            "Villain",
-            "King",
-            "Deity"
+            "Storyborn",
+            "Villain"
         ],
-        "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Hades.)\nSINISTER PLOT This character gets +1 {L} for each other Villain character you have in play.",
-        "keywords": [
-            "Shift"
-        ],
+        "text": "THE POWER OF EVIL For each character card in your discard, you pay 1 {I} less to play this character.\nSUMMON THE SPIRITS When you play this character, shuffle all character cards from your discard into your deck.",
+        "keywords": [],
         "move_cost": null,
-        "strength": 6,
-        "willpower": 7,
-        "lore": 1,
+        "strength": 9,
+        "willpower": 9,
+        "lore": 3,
         "rarity": "Enchanted",
         "illustrators": [
-            "Juan Diego Leon"
+            "Thomas Brissot"
         ],
         "collector_number": "205",
         "lang": "en",
         "flavor_text": null,
-        "tcgplayer_id": 510148,
+        "tcgplayer_id": 539156,
         "legalities": {
             "core": "legal"
         },
         "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
         },
         "prices": {
             "usd": null,
-            "usd_foil": 114.33
+            "usd_foil": 110.93
         }
     },
     {
-        "id": "crd_f839f8a7cb9a47ae962503f3ea69bec5",
-        "name": "Maui",
-        "version": "Hero to All",
+        "id": "crd_7ad03b4873f042bcae4da820a7061ba4",
+        "name": "Gramma Tala",
+        "version": "Spirit of the Ocean",
         "layout": "normal",
-        "released_at": "2023-08-18",
+        "released_at": "2024-02-23",
         "image_uris": {
             "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_f839f8a7cb9a47ae962503f3ea69bec5.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_f839f8a7cb9a47ae962503f3ea69bec5.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_f839f8a7cb9a47ae962503f3ea69bec5.avif?1709690747"
-            }
-        },
-        "cost": 5,
-        "inkwell": true,
-        "ink": "Ruby",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Storyborn",
-            "Hero",
-            "Deity"
-        ],
-        "text": "Rush (This character can challenge the turn they're played.)\nReckless (This character can't quest and must challenge each turn if able.)",
-        "keywords": [
-            "Reckless",
-            "Rush"
-        ],
-        "move_cost": null,
-        "strength": 6,
-        "willpower": 5,
-        "lore": 0,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Pirel / Stefano Zanchi"
-        ],
-        "collector_number": "212",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510158,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 181.29
-        }
-    },
-    {
-        "id": "crd_1a8604b7ba6c45e2bc8b32b0a70d08b5",
-        "name": "Mickey Mouse",
-        "version": "Artful Rogue",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_1a8604b7ba6c45e2bc8b32b0a70d08b5.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_1a8604b7ba6c45e2bc8b32b0a70d08b5.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_1a8604b7ba6c45e2bc8b32b0a70d08b5.avif?1709690747"
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7ad03b4873f042bcae4da820a7061ba4.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7ad03b4873f042bcae4da820a7061ba4.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7ad03b4873f042bcae4da820a7061ba4.avif?1709690747"
             }
         },
         "cost": 7,
-        "inkwell": false,
-        "ink": "Emerald",
+        "inkwell": true,
+        "ink": "Sapphire",
         "type": [
             "Character"
         ],
         "classifications": [
             "Floodborn",
-            "Hero"
+            "Mentor"
         ],
-        "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Mickey Mouse.)\nMISDIRECTION Whenever you play an action, chosen opposing character can't quest during their next turn.",
+        "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Gramma Iala.)\nDO YOU KNOW WHO YOU ARE? Whenever a card is put into your inkwell, gain 1 lore.",
         "keywords": [
             "Shift"
         ],
-        "move_cost": null,
-        "strength": 6,
-        "willpower": 5,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Kendall Hale"
-        ],
-        "collector_number": "210",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510156,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 135.15
-        }
-    },
-    {
-        "id": "crd_5739e1f6076840cd901a1bc283ca6e96",
-        "name": "Mickey Mouse",
-        "version": "Wayward Sorcerer",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_5739e1f6076840cd901a1bc283ca6e96.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_5739e1f6076840cd901a1bc283ca6e96.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_5739e1f6076840cd901a1bc283ca6e96.avif?1709690747"
-            }
-        },
-        "cost": 4,
-        "inkwell": true,
-        "ink": "Amethyst",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Dreamborn",
-            "Sorcerer"
-        ],
-        "text": "ANIMATE BROOM You pay 1 {I} less to play Broom characters.\nCEASELESS WORKER Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
-        "keywords": [],
-        "move_cost": null,
-        "strength": 3,
-        "willpower": 4,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Cam Kendell"
-        ],
-        "collector_number": "208",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510154,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 247.87
-        }
-    },
-    {
-        "id": "crd_80cf71e223cf491796609458b2866665",
-        "name": "Simba",
-        "version": "Returned King",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_80cf71e223cf491796609458b2866665.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_80cf71e223cf491796609458b2866665.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_80cf71e223cf491796609458b2866665.avif?1709690747"
-            }
-        },
-        "cost": 7,
-        "inkwell": true,
-        "ink": "Steel",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Storyborn",
-            "Hero",
-            "King"
-        ],
-        "text": "Challenger +4 (When challenging, this character gets +4 {S}.)\nPOUNCE During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
-        "keywords": [
-            "Challenger"
-        ],
-        "move_cost": null,
-        "strength": 4,
-        "willpower": 6,
-        "lore": 2,
-        "rarity": "Enchanted",
-        "illustrators": [
-            "Hedvig H\u00e4ggman-Sund"
-        ],
-        "collector_number": "215",
-        "lang": "en",
-        "flavor_text": null,
-        "tcgplayer_id": 510162,
-        "legalities": {
-            "core": "legal"
-        },
-        "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
-        },
-        "prices": {
-            "usd": null,
-            "usd_foil": 138.27
-        }
-    },
-    {
-        "id": "crd_35c968e4b25945e897940860221f9d51",
-        "name": "Stitch",
-        "version": "Carefree Surfer",
-        "layout": "normal",
-        "released_at": "2023-08-18",
-        "image_uris": {
-            "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_35c968e4b25945e897940860221f9d51.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_35c968e4b25945e897940860221f9d51.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_35c968e4b25945e897940860221f9d51.avif?1709690747"
-            }
-        },
-        "cost": 7,
-        "inkwell": true,
-        "ink": "Amber",
-        "type": [
-            "Character"
-        ],
-        "classifications": [
-            "Dreamborn",
-            "Hero",
-            "Alien"
-        ],
-        "text": "OHANA When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
-        "keywords": [],
         "move_cost": null,
         "strength": 4,
         "willpower": 8,
         "lore": 2,
         "rarity": "Enchanted",
         "illustrators": [
-            "Milica Celikovic"
+            "Alan Batson"
         ],
-        "collector_number": "206",
+        "collector_number": "217",
         "lang": "en",
         "flavor_text": null,
-        "tcgplayer_id": 510152,
+        "tcgplayer_id": 539275,
         "legalities": {
             "core": "legal"
         },
         "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
         },
         "prices": {
             "usd": null,
-            "usd_foil": 321.04
+            "usd_foil": 75.58
         }
     },
     {
-        "id": "crd_b42271147bf14a5e89d33571e64abb6d",
-        "name": "Tinker Bell",
-        "version": "Giant Fairy",
+        "id": "crd_3ecab24376cb4cd5989309e000f797c1",
+        "name": "Jafar",
+        "version": "Striking Illusionist",
         "layout": "normal",
-        "released_at": "2023-08-18",
+        "released_at": "2024-02-23",
         "image_uris": {
             "digital": {
-                "small": "https://cards.lorcast.io/card/digital/small/crd_b42271147bf14a5e89d33571e64abb6d.avif?1709690747",
-                "normal": "https://cards.lorcast.io/card/digital/normal/crd_b42271147bf14a5e89d33571e64abb6d.avif?1709690747",
-                "large": "https://cards.lorcast.io/card/digital/large/crd_b42271147bf14a5e89d33571e64abb6d.avif?1709690747"
+                "small": "https://cards.lorcast.io/card/digital/small/crd_3ecab24376cb4cd5989309e000f797c1.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_3ecab24376cb4cd5989309e000f797c1.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_3ecab24376cb4cd5989309e000f797c1.avif?1709690747"
             }
         },
-        "cost": 6,
+        "cost": 7,
         "inkwell": true,
-        "ink": "Steel",
+        "ink": "Amethyst",
         "type": [
             "Character"
         ],
         "classifications": [
             "Floodborn",
-            "Ally",
-            "Fairy"
+            "Villain",
+            "Sorcerer"
         ],
-        "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.)\nROCK THE BOAT When you play this character, deal 1 damage to each opposing character.\nPUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
+        "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Jafar.)\nEvasive (Only characters with Evasive can challenge this character.)\nPOWER BEYOND MEASURE During your turn, while this character is exerted, whenever you draw a card, gain 1 lore.",
         "keywords": [
+            "Evasive",
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 5,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Ivan Shavrin"
+        ],
+        "collector_number": "208",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539158,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 128.43
+        }
+    },
+    {
+        "id": "crd_ae42b2ab4e074f3e91c29d4ba2c3e601",
+        "name": "Kida",
+        "version": "Protector of Atlantis",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_ae42b2ab4e074f3e91c29d4ba2c3e601.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_ae42b2ab4e074f3e91c29d4ba2c3e601.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_ae42b2ab4e074f3e91c29d4ba2c3e601.avif?1709690747"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Amber",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Kida.)\nPERHAPS WE CAN SAVE OUR FUTURE When you play this character, all characters get -3 {S} until the start of your next turn.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Grzegorz Krysi\u0144ski"
+        ],
+        "collector_number": "206",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539273,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 111.88
+        }
+    },
+    {
+        "id": "crd_a1af7dad15b64d31a696f7bbb49bfe92",
+        "name": "Kuzco's Palace",
+        "version": "Home of the Emperor",
+        "layout": "landscape",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_a1af7dad15b64d31a696f7bbb49bfe92.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_a1af7dad15b64d31a696f7bbb49bfe92.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_a1af7dad15b64d31a696f7bbb49bfe92.avif?1709690747"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Emerald",
+        "type": [
+            "Location"
+        ],
+        "classifications": null,
+        "text": "CITY WALLS Whenever a character is challenged and banished while here, banish the challenging character.",
+        "keywords": [],
+        "move_cost": 3,
+        "strength": null,
+        "willpower": 7,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Roberto Gatto"
+        ],
+        "collector_number": "213",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539165,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 54.62
+        }
+    },
+    {
+        "id": "crd_40690491af114f2e810a6fd1c6ddcafa",
+        "name": "Maleficent",
+        "version": "Mistress of All Evil",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_40690491af114f2e810a6fd1c6ddcafa.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_40690491af114f2e810a6fd1c6ddcafa.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_40690491af114f2e810a6fd1c6ddcafa.avif?1709690747"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Villain",
+            "Sorcerer"
+        ],
+        "text": "DARK KNOWLEDGE Whenever this character quests, you may draw a card.\nDIVINATION During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Javi Salas"
+        ],
+        "collector_number": "209",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539159,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 103.92
+        }
+    },
+    {
+        "id": "crd_51bf217683f54e1bb4e6835392851031",
+        "name": "Mickey Mouse",
+        "version": "Trumpeter",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_51bf217683f54e1bb4e6835392851031.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_51bf217683f54e1bb4e6835392851031.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_51bf217683f54e1bb4e6835392851031.avif?1709690747"
+            }
+        },
+        "cost": 4,
+        "inkwell": false,
+        "ink": "Steel",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero"
+        ],
+        "text": "SOUND THE CALL {E}, 2 {I} \u2014 Play a character for free.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 0,
+        "willpower": 1,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Luigi Aim\u00e9"
+        ],
+        "collector_number": "220",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539276,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 111.19
+        }
+    },
+    {
+        "id": "crd_2e1d43823fc642549ba92787523ce17f",
+        "name": "Morph",
+        "version": "Space Goo",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_2e1d43823fc642549ba92787523ce17f.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_2e1d43823fc642549ba92787523ce17f.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_2e1d43823fc642549ba92787523ce17f.avif?1709690747"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Emerald",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Ally",
+            "Alien"
+        ],
+        "text": "MIMICRY You may play any character with Shift on this character as if this character had any name.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 1,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Diogo Saito"
+        ],
+        "collector_number": "211",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539163,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 122.06
+        }
+    },
+    {
+        "id": "crd_b5e74b533270492982dff9472aee8664",
+        "name": "Peter Pan",
+        "version": "Pirate's Bane",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_b5e74b533270492982dff9472aee8664.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_b5e74b533270492982dff9472aee8664.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_b5e74b533270492982dff9472aee8664.avif?1709690747"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Ruby",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero"
+        ],
+        "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Peter Pan.)\nEvasive (Only characters with Evasive can challenge this character.)\nYOU'RE NEXT! Whenever he challenges a Pirate character, this character takes no damage from the challenge.",
+        "keywords": [
+            "Evasive",
             "Shift"
         ],
         "move_cost": null,
@@ -10756,23 +10734,316 @@
         "lore": 2,
         "rarity": "Enchanted",
         "illustrators": [
-            "Michael \"Cookie\" Niewiadomy"
+            "Kuya Jaypi"
         ],
-        "collector_number": "216",
+        "collector_number": "215",
         "lang": "en",
         "flavor_text": null,
-        "tcgplayer_id": 510163,
+        "tcgplayer_id": 539274,
         "legalities": {
             "core": "legal"
         },
         "set": {
-            "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
-            "code": "1",
-            "name": "The First Chapter"
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
         },
         "prices": {
             "usd": null,
-            "usd_foil": 293.07
+            "usd_foil": 112.2
+        }
+    },
+    {
+        "id": "crd_bbb647e1cbe3487baa2ad65b27a999ba",
+        "name": "Pride Lands",
+        "version": "Pride Rock",
+        "layout": "landscape",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_bbb647e1cbe3487baa2ad65b27a999ba.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_bbb647e1cbe3487baa2ad65b27a999ba.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_bbb647e1cbe3487baa2ad65b27a999ba.avif?1709690747"
+            }
+        },
+        "cost": 2,
+        "inkwell": false,
+        "ink": "Amber",
+        "type": [
+            "Location"
+        ],
+        "classifications": null,
+        "text": "WE ARE ALL CONNECTED Characters get +2 {W} while here.\nLION HOME If you have a Prince or King character here, you pay 1 {I} less to play characters.",
+        "keywords": [],
+        "move_cost": 2,
+        "strength": null,
+        "willpower": 7,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Jonathan Livslyst"
+        ],
+        "collector_number": "207",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539157,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 61.26
+        }
+    },
+    {
+        "id": "crd_7c421033c14c40e7a5be957ba42bb1b7",
+        "name": "RLS Legacy",
+        "version": "Solar Galleon",
+        "layout": "landscape",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7c421033c14c40e7a5be957ba42bb1b7.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7c421033c14c40e7a5be957ba42bb1b7.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7c421033c14c40e7a5be957ba42bb1b7.avif?1709690747"
+            }
+        },
+        "cost": 4,
+        "inkwell": false,
+        "ink": "Ruby",
+        "type": [
+            "Location"
+        ],
+        "classifications": null,
+        "text": "THIS IS OUR SHIP Characters gain Evasive while here. (Only characters with Evasive can challenge them.)\nHEAVE TOGETHER NOW If you have a character here, you pay 2 {I} less to move a character of yours here.",
+        "keywords": [],
+        "move_cost": 3,
+        "strength": null,
+        "willpower": 8,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Matt Gaser"
+        ],
+        "collector_number": "216",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539167,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 52.44
+        }
+    },
+    {
+        "id": "crd_0a9db863f78c46429d3f1835d046bb2e",
+        "name": "Robin Hood",
+        "version": "Champion of Sherwood",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_0a9db863f78c46429d3f1835d046bb2e.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_0a9db863f78c46429d3f1835d046bb2e.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_0a9db863f78c46429d3f1835d046bb2e.avif?1709690747"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Steel",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero"
+        ],
+        "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Robin Hood.)\nSKILLED COMBATANT During your turn, whenever this character banishes another character in a challenge, gain 2 lore.\nTHE GOOD OF OTHERS When this character is banished in a challenge, you may draw a card.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 6,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Noukah"
+        ],
+        "collector_number": "221",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539171,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 171.66
+        }
+    },
+    {
+        "id": "crd_ee9f19ba64f54bf78ba3cf40e0cac256",
+        "name": "Scrooge McDuck",
+        "version": "Richest Duck in the World",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_ee9f19ba64f54bf78ba3cf40e0cac256.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_ee9f19ba64f54bf78ba3cf40e0cac256.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_ee9f19ba64f54bf78ba3cf40e0cac256.avif?1709690747"
+            }
+        },
+        "cost": 5,
+        "inkwell": false,
+        "ink": "Sapphire",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero"
+        ],
+        "text": "I'M GOING HOME! During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\nI DIDN'T GET RICH BY BEING STUPID During your turn, whenever this character banishes another character in a challenge, you may play an item for free.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Gonzalo Kenny"
+        ],
+        "collector_number": "218",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539168,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 118.54
+        }
+    },
+    {
+        "id": "crd_5a2ba6e63b07496d96a17d2565b2a1db",
+        "name": "The Sorcerer's Hat",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_5a2ba6e63b07496d96a17d2565b2a1db.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_5a2ba6e63b07496d96a17d2565b2a1db.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_5a2ba6e63b07496d96a17d2565b2a1db.avif?1709690747"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "type": [
+            "Item"
+        ],
+        "classifications": null,
+        "text": "INCREDIBLE ENERGY {E}, 1 {I} \u2014 Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Luis Huerta"
+        ],
+        "collector_number": "210",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539162,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 81.41
+        }
+    },
+    {
+        "id": "crd_7c5be60911d844b48189f3a042abdcfa",
+        "name": "Ursula",
+        "version": "Deceiver of All",
+        "layout": "normal",
+        "released_at": "2024-02-23",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7c5be60911d844b48189f3a042abdcfa.avif?1709690747",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7c5be60911d844b48189f3a042abdcfa.avif?1709690747",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7c5be60911d844b48189f3a042abdcfa.avif?1709690747"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Emerald",
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Villain",
+            "Sorcerer"
+        ],
+        "text": "WHAT A DEAL Whenever this character sings a song, you may play that song again from your discard for free, then put it on the bottom of your deck.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "John Loren / Nicholas Kole"
+        ],
+        "collector_number": "212",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": 539164,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_10a1db03fe66417c9912494b94463e8e",
+            "code": "3",
+            "name": "Into the Inklands"
+        },
+        "prices": {
+            "usd": null,
+            "usd_foil": 314.36
         }
     }
 ]
