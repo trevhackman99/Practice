@@ -5,10 +5,16 @@ window.onload = function() {
             
             // console.log(`${data[0].name} - ${data[0].version}`)
             for (let i = 0; i < data.length; i++) {
-                const table = document.getElementById('main-table');
+                const table = document.getElementById('main-table-body');
                 let row = document.createElement('tr');
                 let cell = document.createElement('td');
+
+                if (data[i].version === '') {
+                cell.textContent = `${data[i].name}`;
+                } else {
                 cell.textContent = `${data[i].name} - ${data[i].version}`;
+                }
+                
                 row.appendChild(cell);
                 cell = document.createElement('td');
                 cell.textContent = data[i].set;

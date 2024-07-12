@@ -33,7 +33,7 @@ window.onload = function() {
 document.getElementById('gen-chart-btn').addEventListener('click', function() {
     let chart = document.getElementById('chart');
 
-    let ranges = ['0-50', '51-70', '71-90', '91-110', '111-130', '131-150', '151-170', '171-190', '191-210', '211-240', '241-280', '281-320', '320-400', '401-1000'];
+    let ranges = ['0-30', '31-60', '61-90', '91-120', '121-150', '151-180', '181-210', '211-240', '241-270', '271-300', '301-330', '331-360', '361-390', '391-420', '421-10000'];
 
     let counts = ranges.map(function(range) {
         let bounds = range.split('-').map(Number);

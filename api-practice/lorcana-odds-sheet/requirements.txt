@@ -2,4 +2,10 @@
 #In TERMINAL command 'source (venv name)/bin/activate' activates venv
 
 #LIBRARIES USED
+
+#NODE (NPM)
+express (npm install express)
+
+#PYTHON
 requests
+numpy
