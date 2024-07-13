@@ -20,7 +20,14 @@
                 <p><span id="total-value">Total Value: $0.00</span> <span id="pack-value">Pack Value: $0.00</span> <span id="max-pack-value">Highest Pack Value: $0.00</span></p>
                 <p><span id="avg-value">Avg Value: $0.00</span> <span id="expected-value">EV per Pack: $0.00</span></p>
                 <p><span id="current-bb-value">Current BB Value: $</span> <span id="avg-bb-value">Avg BB Value: $</span></p>
+                <br>
                 <button id="gen-chart-btn">Generate Chart</button>
+                <br>
+                <label for="bbPrice">My BB Price: $<input value=100 id="bbPrice" name="bbPrice" type="number"></label>
+                <br>
+                <button id="odds-btn">Generate Odds Below My BB Price</button>
+                <p><span id="odds-below">Odds Below: 0</span></p>
+                <p><span id="lower-quartile">Bottom 25% Value: $0.00</span> <span id="upper-quartile">Top 25% Value: $0.00</span> <span id="std-dev">Std Dev: $0.00</span> <span id="std-dev-percent">Std Dev %: 0</span></p>
                 <canvas id="chart">
 
                 </canvas>
@@ -68,6 +75,7 @@
 
 </body>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/13.0.2/math.js"></script>
 
 <script src="pack-script.js"></script>
 </html>

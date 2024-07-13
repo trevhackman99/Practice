@@ -30,6 +30,16 @@ window.onload = function() {
     );
 };
 
+document.getElementById('odds-btn').addEventListener('click', function() {
+    const bbPrice = document.getElementById('bbPrice').value;
+
+    let odds = ((bbValue.filter(x => x < bbPrice).length / bbValue.length) * 100).toFixed(2);
+
+    const oddsElement = document.getElementById('odds-below');
+    oddsElement.textContent = `Odds Below: ${odds}`
+
+});
+
 document.getElementById('gen-chart-btn').addEventListener('click', function() {
     let chart = document.getElementById('chart');
 
@@ -42,7 +52,6 @@ document.getElementById('gen-chart-btn').addEventListener('click', function() {
         }, 0);
     })
 
-    console.log(bbValue)
 
     createChart = new Chart(chart, {
         type: 'bar',
@@ -67,6 +76,24 @@ document.getElementById('gen-chart-btn').addEventListener('click', function() {
         }
 
     });
+
+    bbValue.sort((a, b) => a - b);
+
+    let lowerQuartile = bbValue[Math.floor(bbValue.length / 4)].toFixed(2);
+    let upperQuartile = bbValue[Math.floor(bbValue.length * 3 / 4)].toFixed(2);
+    let stdDev = math.std(bbValue, "uncorrected").toFixed(2);
+    let stdDevpercent = math.std(bbValue, "uncorrected").toFixed(2) / math.mean(bbValue) * 100;
+
+    const lowerQuartileElement = document.getElementById('lower-quartile');
+    const upperQuartileElement = document.getElementById('upper-quartile');
+    const stdDevElement = document.getElementById('std-dev');
+    const stdDevPercentElement = document.getElementById('std-dev-percent');
+
+    lowerQuartileElement.textContent = `Bottom 25% Value: ${lowerQuartile}`;
+    upperQuartileElement.textContent = `Top 25% Value: ${upperQuartile}`;
+    stdDevElement.textContent = `Std Dev: ${stdDev}`;
+    stdDevPercentElement.textContent = `Std Dev %: ${stdDevpercent.toFixed(2)}%`;
+
 });
 
 
@@ -108,6 +135,15 @@ document.getElementById('reset-btn').addEventListener('click', function() {
     document.getElementById('info-table').innerHTML = "";
 
     document.getElementById('chart').innerHTML = "";
+
+    document.getElementById('lower-quartile').textContent = `Bottom 25% Value: $0.00`;
+    document.getElementById('upper-quartile').textContent = `Top 25% Value: $0.00`;
+    document.getElementById('std-dev').textContent = `Std Dev: $0.00`;
+    document.getElementById('std-dev-percent').textContent = `Std Dev %:`;
+
+    const canvasElement = document.getElementById('chart');
+    Chart.getChart(canvasElement).destroy();
+
 
 });
 

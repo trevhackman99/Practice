@@ -7,7 +7,7 @@
     "set": "Into the Inklands",
     "collector_number": "24",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.09,
     "foil": 0.99
   },
   {
@@ -40,7 +40,7 @@
     "set": "Into the Inklands",
     "collector_number": "35",
     "rarity": "Super_rare",
-    "normal": 0.19,
+    "normal": 0.18,
     "foil": 0.99
   },
   {
@@ -51,8 +51,8 @@
     "set": "Into the Inklands",
     "collector_number": "195",
     "rarity": "Rare",
-    "normal": 4.04,
-    "foil": 7.26
+    "normal": 3.95,
+    "foil": 7.14
   },
   {
     "id": "crd_341f45661be2402b86ec54dd9e402bd3",
@@ -62,7 +62,7 @@
     "set": "Into the Inklands",
     "collector_number": "103",
     "rarity": "Super_rare",
-    "normal": 0.15,
+    "normal": 0.19,
     "foil": 0.99
   },
   {
@@ -73,7 +73,7 @@
     "set": "Into the Inklands",
     "collector_number": "137",
     "rarity": "Rare",
-    "normal": 0.14,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -84,7 +84,7 @@
     "set": "Into the Inklands",
     "collector_number": "163",
     "rarity": "Rare",
-    "normal": 0.13,
+    "normal": 0.14,
     "foil": 0.99
   },
   {
@@ -95,7 +95,7 @@
     "set": "Into the Inklands",
     "collector_number": "196",
     "rarity": "Common",
-    "normal": 0.12,
+    "normal": 0.16,
     "foil": 0.99
   },
   {
@@ -106,8 +106,8 @@
     "set": "Into the Inklands",
     "collector_number": "1",
     "rarity": "Rare",
-    "normal": 0.34,
-    "foil": 1.28
+    "normal": 0.31,
+    "foil": 1.21
   },
   {
     "id": "crd_9f0ca76ac1444a1290ac0003ef15d292",
@@ -117,7 +117,7 @@
     "set": "Into the Inklands",
     "collector_number": "168",
     "rarity": "Rare",
-    "normal": 0.18,
+    "normal": 0.19,
     "foil": 0.99
   },
   {
@@ -128,7 +128,7 @@
     "set": "Into the Inklands",
     "collector_number": "2",
     "rarity": "Rare",
-    "normal": 0.15,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -139,7 +139,7 @@
     "set": "Into the Inklands",
     "collector_number": "60",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -161,7 +161,7 @@
     "set": "Into the Inklands",
     "collector_number": "25",
     "rarity": "Common",
-    "normal": 0.02,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -172,7 +172,7 @@
     "set": "Into the Inklands",
     "collector_number": "138",
     "rarity": "Common",
-    "normal": 0.09,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -183,7 +183,7 @@
     "set": "Into the Inklands",
     "collector_number": "105",
     "rarity": "Rare",
-    "normal": 0.17,
+    "normal": 0.2,
     "foil": 0.99
   },
   {
@@ -205,8 +205,8 @@
     "set": "Into the Inklands",
     "collector_number": "3",
     "rarity": "Super_rare",
-    "normal": 0.54,
-    "foil": 2.36
+    "normal": 0.56,
+    "foil": 2.35
   },
   {
     "id": "crd_bda38dbbd3974a5bb53bc91853faa172",
@@ -216,8 +216,8 @@
     "set": "Into the Inklands",
     "collector_number": "36",
     "rarity": "Uncommon",
-    "normal": 1.54,
-    "foil": 6.63
+    "normal": 1.46,
+    "foil": 6.6
   },
   {
     "id": "crd_5646a42f0a98475ba7c07e55f7cb47df",
@@ -227,7 +227,7 @@
     "set": "Into the Inklands",
     "collector_number": "171",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -260,8 +260,8 @@
     "set": "Into the Inklands",
     "collector_number": "70",
     "rarity": "Rare",
-    "normal": 2.86,
-    "foil": 5.81
+    "normal": 2.92,
+    "foil": 5.77
   },
   {
     "id": "crd_97f8be5e176144378d58823c6f9c29c7",
@@ -271,7 +271,7 @@
     "set": "Into the Inklands",
     "collector_number": "4a",
     "rarity": "Common",
-    "normal": 0.7,
+    "normal": 0.71,
     "foil": 0.99
   },
   {
@@ -293,7 +293,7 @@
     "set": "Into the Inklands",
     "collector_number": "100",
     "rarity": "Common",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -326,7 +326,7 @@
     "set": "Into the Inklands",
     "collector_number": "159",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -348,7 +348,7 @@
     "set": "Into the Inklands",
     "collector_number": "71",
     "rarity": "Common",
-    "normal": 0.02,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -359,7 +359,7 @@
     "set": "Into the Inklands",
     "collector_number": "172",
     "rarity": "Common",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -370,7 +370,7 @@
     "set": "Into the Inklands",
     "collector_number": "101",
     "rarity": "Rare",
-    "normal": 0.43,
+    "normal": 0.4,
     "foil": 0.99
   },
   {
@@ -381,7 +381,7 @@
     "set": "Into the Inklands",
     "collector_number": "140",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -392,7 +392,7 @@
     "set": "Into the Inklands",
     "collector_number": "72",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.02,
     "foil": 0.99
   },
   {
@@ -414,7 +414,7 @@
     "set": "Into the Inklands",
     "collector_number": "73",
     "rarity": "Uncommon",
-    "normal": 0.09,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -425,7 +425,7 @@
     "set": "Into the Inklands",
     "collector_number": "160",
     "rarity": "Rare",
-    "normal": 0.18,
+    "normal": 0.15,
     "foil": 0.99
   },
   {
@@ -447,7 +447,7 @@
     "set": "Into the Inklands",
     "collector_number": "38",
     "rarity": "Super_rare",
-    "normal": 0.22,
+    "normal": 0.21,
     "foil": 0.99
   },
   {
@@ -469,7 +469,7 @@
     "set": "Into the Inklands",
     "collector_number": "142",
     "rarity": "Common",
-    "normal": 0.09,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -480,8 +480,8 @@
     "set": "Into the Inklands",
     "collector_number": "143",
     "rarity": "Legendary",
-    "normal": 2.29,
-    "foil": 3.6
+    "normal": 2.16,
+    "foil": 3.56
   },
   {
     "id": "crd_2977bf4ea525446f9f26eb7c272ed37b",
@@ -502,7 +502,7 @@
     "set": "Into the Inklands",
     "collector_number": "144",
     "rarity": "Rare",
-    "normal": 0.11,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -513,7 +513,7 @@
     "set": "Into the Inklands",
     "collector_number": "174",
     "rarity": "Rare",
-    "normal": 0.22,
+    "normal": 0.17,
     "foil": 0.99
   },
   {
@@ -524,7 +524,7 @@
     "set": "Into the Inklands",
     "collector_number": "94",
     "rarity": "Uncommon",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -535,7 +535,7 @@
     "set": "Into the Inklands",
     "collector_number": "26",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -546,7 +546,7 @@
     "set": "Into the Inklands",
     "collector_number": "30",
     "rarity": "Rare",
-    "normal": 0.13,
+    "normal": 0.12,
     "foil": 0.99
   },
   {
@@ -557,7 +557,7 @@
     "set": "Into the Inklands",
     "collector_number": "164",
     "rarity": "Rare",
-    "normal": 0.16,
+    "normal": 0.13,
     "foil": 0.99
   },
   {
@@ -568,7 +568,7 @@
     "set": "Into the Inklands",
     "collector_number": "107",
     "rarity": "Uncommon",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -579,7 +579,7 @@
     "set": "Into the Inklands",
     "collector_number": "74",
     "rarity": "Super_rare",
-    "normal": 0.24,
+    "normal": 0.21,
     "foil": 0.99
   },
   {
@@ -601,7 +601,7 @@
     "set": "Into the Inklands",
     "collector_number": "75",
     "rarity": "Rare",
-    "normal": 0.1,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -612,7 +612,7 @@
     "set": "Into the Inklands",
     "collector_number": "161",
     "rarity": "Uncommon",
-    "normal": 0.16,
+    "normal": 0.18,
     "foil": 0.99
   },
   {
@@ -623,7 +623,7 @@
     "set": "Into the Inklands",
     "collector_number": "145",
     "rarity": "Rare",
-    "normal": 0.11,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -634,8 +634,8 @@
     "set": "Into the Inklands",
     "collector_number": "108",
     "rarity": "Legendary",
-    "normal": 1.75,
-    "foil": 4.71
+    "normal": 1.76,
+    "foil": 4.67
   },
   {
     "id": "crd_fabf6b8091ab49a1b2dccff0b1bb66ab",
@@ -645,7 +645,7 @@
     "set": "Into the Inklands",
     "collector_number": "39",
     "rarity": "Uncommon",
-    "normal": 0.09,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -656,7 +656,7 @@
     "set": "Into the Inklands",
     "collector_number": "40",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -700,7 +700,7 @@
     "set": "Into the Inklands",
     "collector_number": "41",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -711,8 +711,8 @@
     "set": "Into the Inklands",
     "collector_number": "42",
     "rarity": "Legendary",
-    "normal": 7.28,
-    "foil": 13.22
+    "normal": 7.04,
+    "foil": 13.14
   },
   {
     "id": "crd_d3950786da4a4d3497090ce82253a144",
@@ -733,8 +733,8 @@
     "set": "Into the Inklands",
     "collector_number": "109",
     "rarity": "Legendary",
-    "normal": 8.36,
-    "foil": 10.66
+    "normal": 8.59,
+    "foil": 11.4
   },
   {
     "id": "crd_bdeabb102e8a43af9b4e1699df256503",
@@ -744,7 +744,7 @@
     "set": "Into the Inklands",
     "collector_number": "110",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -755,7 +755,7 @@
     "set": "Into the Inklands",
     "collector_number": "176",
     "rarity": "Rare",
-    "normal": 0.44,
+    "normal": 0.39,
     "foil": 0.99
   },
   {
@@ -766,7 +766,7 @@
     "set": "Into the Inklands",
     "collector_number": "135",
     "rarity": "Uncommon",
-    "normal": 0.09,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -777,7 +777,7 @@
     "set": "Into the Inklands",
     "collector_number": "5",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -810,8 +810,8 @@
     "set": "Into the Inklands",
     "collector_number": "7",
     "rarity": "Legendary",
-    "normal": 8.02,
-    "foil": 11.02
+    "normal": 8.18,
+    "foil": 11.13
   },
   {
     "id": "crd_3cead19199044fd5bb448a13f2ce8189",
@@ -843,7 +843,7 @@
     "set": "Into the Inklands",
     "collector_number": "147",
     "rarity": "Uncommon",
-    "normal": 0.12,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -854,7 +854,7 @@
     "set": "Into the Inklands",
     "collector_number": "148",
     "rarity": "Common",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -876,7 +876,7 @@
     "set": "Into the Inklands",
     "collector_number": "102",
     "rarity": "Uncommon",
-    "normal": 0.12,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -887,7 +887,7 @@
     "set": "Into the Inklands",
     "collector_number": "62",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -909,7 +909,7 @@
     "set": "Into the Inklands",
     "collector_number": "178",
     "rarity": "Super_rare",
-    "normal": 0.2,
+    "normal": 0.23,
     "foil": 0.99
   },
   {
@@ -920,7 +920,7 @@
     "set": "Into the Inklands",
     "collector_number": "179",
     "rarity": "Uncommon",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -931,7 +931,7 @@
     "set": "Into the Inklands",
     "collector_number": "149",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -953,8 +953,8 @@
     "set": "Into the Inklands",
     "collector_number": "165",
     "rarity": "Legendary",
-    "normal": 14.06,
-    "foil": 21.65
+    "normal": 13.79,
+    "foil": 21.29
   },
   {
     "id": "crd_04851c839e844359bfe6a0fa70158d38",
@@ -964,7 +964,7 @@
     "set": "Into the Inklands",
     "collector_number": "78",
     "rarity": "Super_rare",
-    "normal": 0.2,
+    "normal": 0.17,
     "foil": 0.99
   },
   {
@@ -975,7 +975,7 @@
     "set": "Into the Inklands",
     "collector_number": "180",
     "rarity": "Uncommon",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -986,8 +986,8 @@
     "set": "Into the Inklands",
     "collector_number": "112",
     "rarity": "Super_rare",
-    "normal": 3.19,
-    "foil": 14.34
+    "normal": 3.41,
+    "foil": 14.28
   },
   {
     "id": "crd_1613e74208754e64b862c2a8b28add19",
@@ -997,7 +997,7 @@
     "set": "Into the Inklands",
     "collector_number": "48",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -1008,7 +1008,7 @@
     "set": "Into the Inklands",
     "collector_number": "49",
     "rarity": "Super_rare",
-    "normal": 0.19,
+    "normal": 0.18,
     "foil": 0.99
   },
   {
@@ -1019,7 +1019,7 @@
     "set": "Into the Inklands",
     "collector_number": "50",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.09,
     "foil": 0.99
   },
   {
@@ -1052,7 +1052,7 @@
     "set": "Into the Inklands",
     "collector_number": "46",
     "rarity": "Common",
-    "normal": 0.09,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -1063,7 +1063,7 @@
     "set": "Into the Inklands",
     "collector_number": "47",
     "rarity": "Common",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -1085,7 +1085,7 @@
     "set": "Into the Inklands",
     "collector_number": "51",
     "rarity": "Legendary",
-    "normal": 2.82,
+    "normal": 2.8,
     "foil": 5.23
   },
   {
@@ -1096,7 +1096,7 @@
     "set": "Into the Inklands",
     "collector_number": "151",
     "rarity": "Rare",
-    "normal": 0.16,
+    "normal": 0.15,
     "foil": 0.99
   },
   {
@@ -1107,7 +1107,7 @@
     "set": "Into the Inklands",
     "collector_number": "52",
     "rarity": "Uncommon",
-    "normal": 0.05,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -1118,7 +1118,7 @@
     "set": "Into the Inklands",
     "collector_number": "201",
     "rarity": "Rare",
-    "normal": 0.2,
+    "normal": 0.19,
     "foil": 0.99
   },
   {
@@ -1129,7 +1129,7 @@
     "set": "Into the Inklands",
     "collector_number": "113",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -1140,7 +1140,7 @@
     "set": "Into the Inklands",
     "collector_number": "114",
     "rarity": "Rare",
-    "normal": 0.11,
+    "normal": 0.14,
     "foil": 0.99
   },
   {
@@ -1151,8 +1151,8 @@
     "set": "Into the Inklands",
     "collector_number": "132",
     "rarity": "Rare",
-    "normal": 0.2,
-    "foil": 1.52
+    "normal": 0.25,
+    "foil": 1.51
   },
   {
     "id": "crd_50ae7c2bc4c94414be98bbe98e01944c",
@@ -1162,7 +1162,7 @@
     "set": "Into the Inklands",
     "collector_number": "202",
     "rarity": "Rare",
-    "normal": 0.27,
+    "normal": 0.26,
     "foil": 0.99
   },
   {
@@ -1173,7 +1173,7 @@
     "set": "Into the Inklands",
     "collector_number": "169",
     "rarity": "Common",
-    "normal": 0.13,
+    "normal": 0.11,
     "foil": 0.99
   },
   {
@@ -1184,7 +1184,7 @@
     "set": "Into the Inklands",
     "collector_number": "181",
     "rarity": "Common",
-    "normal": 0.03,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -1195,8 +1195,8 @@
     "set": "Into the Inklands",
     "collector_number": "182",
     "rarity": "Legendary",
-    "normal": 2.2,
-    "foil": 4.84
+    "normal": 1.99,
+    "foil": 4.8
   },
   {
     "id": "crd_8745424825aa4fa6840fbb0a19711247",
@@ -1217,7 +1217,7 @@
     "set": "Into the Inklands",
     "collector_number": "80",
     "rarity": "Legendary",
-    "normal": 1.8,
+    "normal": 1.94,
     "foil": 2.93
   },
   {
@@ -1239,7 +1239,7 @@
     "set": "Into the Inklands",
     "collector_number": "183",
     "rarity": "Common",
-    "normal": 0.05,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -1250,7 +1250,7 @@
     "set": "Into the Inklands",
     "collector_number": "9",
     "rarity": "Rare",
-    "normal": 0.21,
+    "normal": 0.2,
     "foil": 0.99
   },
   {
@@ -1272,7 +1272,7 @@
     "set": "Into the Inklands",
     "collector_number": "116",
     "rarity": "Rare",
-    "normal": 0.12,
+    "normal": 0.11,
     "foil": 0.99
   },
   {
@@ -1294,7 +1294,7 @@
     "set": "Into the Inklands",
     "collector_number": "81",
     "rarity": "Rare",
-    "normal": 1.62,
+    "normal": 1.27,
     "foil": 4.27
   },
   {
@@ -1305,7 +1305,7 @@
     "set": "Into the Inklands",
     "collector_number": "170",
     "rarity": "Uncommon",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -1316,8 +1316,8 @@
     "set": "Into the Inklands",
     "collector_number": "184",
     "rarity": "Uncommon",
-    "normal": 0.7,
-    "foil": 3.36
+    "normal": 0.61,
+    "foil": 3.72
   },
   {
     "id": "crd_748599af9c8e4272b5f2926597a405ba",
@@ -1349,7 +1349,7 @@
     "set": "Into the Inklands",
     "collector_number": "186",
     "rarity": "Uncommon",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -1371,7 +1371,7 @@
     "set": "Into the Inklands",
     "collector_number": "32",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -1382,7 +1382,7 @@
     "set": "Into the Inklands",
     "collector_number": "203",
     "rarity": "Common",
-    "normal": 0.09,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -1404,7 +1404,7 @@
     "set": "Into the Inklands",
     "collector_number": "197",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -1415,7 +1415,7 @@
     "set": "Into the Inklands",
     "collector_number": "130",
     "rarity": "Rare",
-    "normal": 0.11,
+    "normal": 0.12,
     "foil": 0.99
   },
   {
@@ -1448,7 +1448,7 @@
     "set": "Into the Inklands",
     "collector_number": "15",
     "rarity": "Legendary",
-    "normal": 4.88,
+    "normal": 5,
     "foil": 10.03
   },
   {
@@ -1481,7 +1481,7 @@
     "set": "Into the Inklands",
     "collector_number": "120",
     "rarity": "Rare",
-    "normal": 0.23,
+    "normal": 0.2,
     "foil": 0.99
   },
   {
@@ -1492,8 +1492,8 @@
     "set": "Into the Inklands",
     "collector_number": "16",
     "rarity": "Super_rare",
-    "normal": 1.75,
-    "foil": 3.07
+    "normal": 1.67,
+    "foil": 2.99
   },
   {
     "id": "crd_02f6ca615a304f47848ac36590cb7b94",
@@ -1503,7 +1503,7 @@
     "set": "Into the Inklands",
     "collector_number": "17",
     "rarity": "Rare",
-    "normal": 0.15,
+    "normal": 0.16,
     "foil": 0.99
   },
   {
@@ -1514,7 +1514,7 @@
     "set": "Into the Inklands",
     "collector_number": "18",
     "rarity": "Uncommon",
-    "normal": 0.11,
+    "normal": 0.12,
     "foil": 0.99
   },
   {
@@ -1525,7 +1525,7 @@
     "set": "Into the Inklands",
     "collector_number": "152",
     "rarity": "Common",
-    "normal": 0.06,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -1547,8 +1547,8 @@
     "set": "Into the Inklands",
     "collector_number": "33",
     "rarity": "Rare",
-    "normal": 0.68,
-    "foil": 2
+    "normal": 0.59,
+    "foil": 2.03
   },
   {
     "id": "crd_4d0b6d09ae6c423ea874fbb6c659355e",
@@ -1558,8 +1558,8 @@
     "set": "Into the Inklands",
     "collector_number": "121",
     "rarity": "Super_rare",
-    "normal": 0.36,
-    "foil": 1.57
+    "normal": 0.42,
+    "foil": 1.74
   },
   {
     "id": "crd_1af5228c0d75411ebc9eccf5cae1c086",
@@ -1580,7 +1580,7 @@
     "set": "Into the Inklands",
     "collector_number": "53",
     "rarity": "Common",
-    "normal": 0.07,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -1591,7 +1591,7 @@
     "set": "Into the Inklands",
     "collector_number": "187",
     "rarity": "Rare",
-    "normal": 0.17,
+    "normal": 0.13,
     "foil": 0.99
   },
   {
@@ -1602,7 +1602,7 @@
     "set": "Into the Inklands",
     "collector_number": "20",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -1613,7 +1613,7 @@
     "set": "Into the Inklands",
     "collector_number": "27",
     "rarity": "Common",
-    "normal": 0.05,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -1624,8 +1624,8 @@
     "set": "Into the Inklands",
     "collector_number": "54",
     "rarity": "Rare",
-    "normal": 0.79,
-    "foil": 3.46
+    "normal": 0.51,
+    "foil": 3.43
   },
   {
     "id": "crd_35f95b92c0ce4e8e85eef87a3edbeb29",
@@ -1635,7 +1635,7 @@
     "set": "Into the Inklands",
     "collector_number": "188",
     "rarity": "Common",
-    "normal": 0.05,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -1668,8 +1668,8 @@
     "set": "Into the Inklands",
     "collector_number": "136",
     "rarity": "Rare",
-    "normal": 0.53,
-    "foil": 1.3
+    "normal": 0.47,
+    "foil": 1.38
   },
   {
     "id": "crd_69258eaba19a498182c2e4039c89466d",
@@ -1679,8 +1679,8 @@
     "set": "Into the Inklands",
     "collector_number": "189",
     "rarity": "Common",
-    "normal": 0.12,
-    "foil": 1.81
+    "normal": 0.1,
+    "foil": 1.76
   },
   {
     "id": "crd_fc5e485b906a4e97b420d9ea122b4414",
@@ -1690,8 +1690,8 @@
     "set": "Into the Inklands",
     "collector_number": "190",
     "rarity": "Legendary",
-    "normal": 41.66,
-    "foil": 54.57
+    "normal": 36.73,
+    "foil": 54.35
   },
   {
     "id": "crd_4d6d0cbb004e486c8d038d3818d668a1",
@@ -1701,7 +1701,7 @@
     "set": "Into the Inklands",
     "collector_number": "84",
     "rarity": "Rare",
-    "normal": 0.19,
+    "normal": 0.16,
     "foil": 0.99
   },
   {
@@ -1723,7 +1723,7 @@
     "set": "Into the Inklands",
     "collector_number": "21",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -1745,7 +1745,7 @@
     "set": "Into the Inklands",
     "collector_number": "154",
     "rarity": "Super_rare",
-    "normal": 0.26,
+    "normal": 0.18,
     "foil": 0.99
   },
   {
@@ -1767,7 +1767,7 @@
     "set": "Into the Inklands",
     "collector_number": "166",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.08,
     "foil": 0.99
   },
   {
@@ -1778,7 +1778,7 @@
     "set": "Into the Inklands",
     "collector_number": "122",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.05,
     "foil": 0.99
   },
   {
@@ -1789,7 +1789,7 @@
     "set": "Into the Inklands",
     "collector_number": "85",
     "rarity": "Super_rare",
-    "normal": 0.18,
+    "normal": 0.17,
     "foil": 0.99
   },
   {
@@ -1800,7 +1800,7 @@
     "set": "Into the Inklands",
     "collector_number": "191",
     "rarity": "Super_rare",
-    "normal": 0.22,
+    "normal": 0.23,
     "foil": 0.99
   },
   {
@@ -1811,8 +1811,8 @@
     "set": "Into the Inklands",
     "collector_number": "192",
     "rarity": "Super_rare",
-    "normal": 0.25,
-    "foil": 1.44
+    "normal": 0.26,
+    "foil": 1.5
   },
   {
     "id": "crd_1985d10b104a4176a621275358537fa9",
@@ -1833,7 +1833,7 @@
     "set": "Into the Inklands",
     "collector_number": "123",
     "rarity": "Rare",
-    "normal": 0.23,
+    "normal": 0.25,
     "foil": 0.99
   },
   {
@@ -1844,7 +1844,7 @@
     "set": "Into the Inklands",
     "collector_number": "86",
     "rarity": "Common",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -1866,7 +1866,7 @@
     "set": "Into the Inklands",
     "collector_number": "124",
     "rarity": "Uncommon",
-    "normal": 0.05,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -1888,7 +1888,7 @@
     "set": "Into the Inklands",
     "collector_number": "99",
     "rarity": "Rare",
-    "normal": 0.12,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -1910,7 +1910,7 @@
     "set": "Into the Inklands",
     "collector_number": "125",
     "rarity": "Common",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -1921,7 +1921,7 @@
     "set": "Into the Inklands",
     "collector_number": "55",
     "rarity": "Rare",
-    "normal": 0.18,
+    "normal": 0.16,
     "foil": 0.99
   },
   {
@@ -1932,7 +1932,7 @@
     "set": "Into the Inklands",
     "collector_number": "96",
     "rarity": "Common",
-    "normal": 0.05,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -1943,7 +1943,7 @@
     "set": "Into the Inklands",
     "collector_number": "133",
     "rarity": "Uncommon",
-    "normal": 0.1,
+    "normal": 0.09,
     "foil": 0.99
   },
   {
@@ -1954,7 +1954,7 @@
     "set": "Into the Inklands",
     "collector_number": "194",
     "rarity": "Uncommon",
-    "normal": 0.06,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -1965,8 +1965,8 @@
     "set": "Into the Inklands",
     "collector_number": "28",
     "rarity": "Rare",
-    "normal": 1.28,
-    "foil": 3.67
+    "normal": 1.08,
+    "foil": 3.76
   },
   {
     "id": "crd_65119a74cb394cec89eab4175ad228bf",
@@ -1976,7 +1976,7 @@
     "set": "Into the Inklands",
     "collector_number": "204",
     "rarity": "Uncommon",
-    "normal": 0.13,
+    "normal": 0.12,
     "foil": 0.99
   },
   {
@@ -1987,8 +1987,8 @@
     "set": "Into the Inklands",
     "collector_number": "63",
     "rarity": "Rare",
-    "normal": 0.4,
-    "foil": 1
+    "normal": 0.33,
+    "foil": 0.99
   },
   {
     "id": "crd_67c15e1a10e04510a5f6c78cf9119e22",
@@ -1998,7 +1998,7 @@
     "set": "Into the Inklands",
     "collector_number": "56",
     "rarity": "Common",
-    "normal": 0.08,
+    "normal": 0.07,
     "foil": 0.99
   },
   {
@@ -2009,7 +2009,7 @@
     "set": "Into the Inklands",
     "collector_number": "64",
     "rarity": "Rare",
-    "normal": 0.18,
+    "normal": 0.17,
     "foil": 0.99
   },
   {
@@ -2020,7 +2020,7 @@
     "set": "Into the Inklands",
     "collector_number": "57",
     "rarity": "Common",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -2042,8 +2042,8 @@
     "set": "Into the Inklands",
     "collector_number": "67",
     "rarity": "Rare",
-    "normal": 13.93,
-    "foil": 19.7
+    "normal": 13.45,
+    "foil": 19.45
   },
   {
     "id": "crd_4ae1ca3505fc492eb6e4310ae36f3ba3",
@@ -2064,7 +2064,7 @@
     "set": "Into the Inklands",
     "collector_number": "68",
     "rarity": "Uncommon",
-    "normal": 0.3,
+    "normal": 0.23,
     "foil": 1.05
   },
   {
@@ -2075,7 +2075,7 @@
     "set": "Into the Inklands",
     "collector_number": "34",
     "rarity": "Uncommon",
-    "normal": 0.09,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -2108,7 +2108,7 @@
     "set": "Into the Inklands",
     "collector_number": "58",
     "rarity": "Rare",
-    "normal": 0.11,
+    "normal": 0.1,
     "foil": 0.99
   },
   {
@@ -2130,8 +2130,8 @@
     "set": "Into the Inklands",
     "collector_number": "90",
     "rarity": "Uncommon",
-    "normal": 0.42,
-    "foil": 4.42
+    "normal": 0.37,
+    "foil": 4.45
   },
   {
     "id": "crd_00dafa7609fb42d2a1a8e4e81e79474a",
@@ -2141,8 +2141,8 @@
     "set": "Into the Inklands",
     "collector_number": "91",
     "rarity": "Legendary",
-    "normal": 25.64,
-    "foil": 38.02
+    "normal": 23.98,
+    "foil": 36.78
   },
   {
     "id": "crd_ef7ea6ffd33a4557961b74ea45e095d4",
@@ -2152,7 +2152,7 @@
     "set": "Into the Inklands",
     "collector_number": "59",
     "rarity": "Rare",
-    "normal": 0.16,
+    "normal": 0.12,
     "foil": 0.99
   },
   {
@@ -2196,7 +2196,7 @@
     "set": "Into the Inklands",
     "collector_number": "158",
     "rarity": "Super_rare",
-    "normal": 0.21,
+    "normal": 0.2,
     "foil": 0.99
   },
   {
@@ -2207,7 +2207,7 @@
     "set": "Into the Inklands",
     "collector_number": "23",
     "rarity": "Uncommon",
-    "normal": 0.05,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -2218,7 +2218,7 @@
     "set": "Into the Inklands",
     "collector_number": "92",
     "rarity": "Uncommon",
-    "normal": 0.05,
+    "normal": 0.06,
     "foil": 0.99
   },
   {
@@ -2229,7 +2229,7 @@
     "set": "Into the Inklands",
     "collector_number": "31",
     "rarity": "Uncommon",
-    "normal": 0.04,
+    "normal": 0.03,
     "foil": 0.99
   },
   {
@@ -2240,7 +2240,7 @@
     "set": "Into the Inklands",
     "collector_number": "93",
     "rarity": "Common",
-    "normal": 0.05,
+    "normal": 0.04,
     "foil": 0.99
   },
   {
@@ -2252,7 +2252,7 @@
     "collector_number": "222",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 104.83
+    "foil": 104.87
   },
   {
     "id": "crd_c9f08696c3cd44bf96e2a149bb3cfb12",
@@ -2274,7 +2274,7 @@
     "collector_number": "214",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 76.76
+    "foil": 75.95
   },
   {
     "id": "crd_7a288d030d1a471fbb818ccfdddc6052",
@@ -2285,7 +2285,7 @@
     "collector_number": "205",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 110.93
+    "foil": 110.37
   },
   {
     "id": "crd_7ad03b4873f042bcae4da820a7061ba4",
@@ -2296,7 +2296,7 @@
     "collector_number": "217",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 75.58
+    "foil": 75.36
   },
   {
     "id": "crd_3ecab24376cb4cd5989309e000f797c1",
@@ -2307,7 +2307,7 @@
     "collector_number": "208",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 128.43
+    "foil": 126.63
   },
   {
     "id": "crd_ae42b2ab4e074f3e91c29d4ba2c3e601",
@@ -2318,7 +2318,7 @@
     "collector_number": "206",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 111.88
+    "foil": 109.39
   },
   {
     "id": "crd_a1af7dad15b64d31a696f7bbb49bfe92",
@@ -2329,7 +2329,7 @@
     "collector_number": "213",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 54.62
+    "foil": 54.06
   },
   {
     "id": "crd_40690491af114f2e810a6fd1c6ddcafa",
@@ -2351,7 +2351,7 @@
     "collector_number": "220",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 111.19
+    "foil": 109.03
   },
   {
     "id": "crd_2e1d43823fc642549ba92787523ce17f",
@@ -2362,7 +2362,7 @@
     "collector_number": "211",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 122.06
+    "foil": 120.86
   },
   {
     "id": "crd_b5e74b533270492982dff9472aee8664",
@@ -2384,7 +2384,7 @@
     "collector_number": "207",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 61.26
+    "foil": 60.8
   },
   {
     "id": "crd_7c421033c14c40e7a5be957ba42bb1b7",
@@ -2395,7 +2395,7 @@
     "collector_number": "216",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 52.44
+    "foil": 51.93
   },
   {
     "id": "crd_0a9db863f78c46429d3f1835d046bb2e",
@@ -2406,7 +2406,7 @@
     "collector_number": "221",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 171.66
+    "foil": 171.32
   },
   {
     "id": "crd_ee9f19ba64f54bf78ba3cf40e0cac256",
@@ -2428,7 +2428,7 @@
     "collector_number": "210",
     "rarity": "Enchanted",
     "normal": 0,
-    "foil": 81.41
+    "foil": 80.41
   },
   {
     "id": "crd_7c5be60911d844b48189f3a042abdcfa",

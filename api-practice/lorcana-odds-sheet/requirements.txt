@@ -5,6 +5,7 @@
 
 #NODE (NPM)
 express (npm install express)
+mathjs (npm install mathjs)
 
 #PYTHON
 requests
