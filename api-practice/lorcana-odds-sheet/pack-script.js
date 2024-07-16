@@ -391,6 +391,11 @@ function loadPackResults(pack) {
         const table = document.getElementById('main-table-body');
         let row = document.createElement('tr');
         let cell = document.createElement('td');
+
+        cellImg = document.createElement('img');
+        cellImg.src = pack[i].img;
+        row.appendChild(cellImg);
+
         cell.textContent = `${pack[i].name} - ${pack[i].version}`;
         row.appendChild(cell);
         cell = document.createElement('td');

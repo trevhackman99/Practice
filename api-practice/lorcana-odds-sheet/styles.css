@@ -1,5 +1,21 @@
+@font-face {
+    font-family: 'BystanderSans-Medium';
+    src: url('BystanderSans-Medium.ttf') format('truetype');
+}
+
+body {
+    font-family: 'BystanderSans-Medium', fallback-fonts, sans-serif;
+    color: aliceblue;
+    background-image: url('space-bg.jpg');
+    background-size: cover;
+
+}
+
+
 h1 {
     text-align: center;
+    text-shadow: 0 1px 10px gold;
+    
 }
 
 .header {
