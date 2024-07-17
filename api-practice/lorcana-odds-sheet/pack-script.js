@@ -40,62 +40,6 @@ document.getElementById('odds-btn').addEventListener('click', function() {
 
 });
 
-document.getElementById('gen-chart-btn').addEventListener('click', function() {
-    let chart = document.getElementById('chart');
-
-    let ranges = ['0-50', '51-70', '71-90', '91-110', '111-130', '131-150', '151-170', '171-190', '191-210', '211-240', '241-280', '281-320', '320-400', '401-1000'];
-
-    let counts = ranges.map(function(range) {
-        let bounds = range.split('-').map(Number);
-        return bbValue.reduce(function(count, num) {
-            return (num >= bounds[0] && num <= bounds[1]) ? count + 1 : count;
-        }, 0);
-    })
-
-
-    createChart = new Chart(chart, {
-        type: 'bar',
-        data: {
-            labels: ranges,
-            datasets: [{
-                label: 'Number of BBs',
-                data: counts,
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                    
-                },
-                x: {
-                    type: 'category',
-                    labels: ranges
-                }
-            }
-        }
-
-    });
-
-    bbValue.sort((a, b) => a - b);
-
-    let lowerQuartile = bbValue[Math.floor(bbValue.length / 4)].toFixed(2);
-    let upperQuartile = bbValue[Math.floor(bbValue.length * 3 / 4)].toFixed(2);
-    let stdDev = math.std(bbValue, "uncorrected").toFixed(2);
-    let stdDevpercent = math.std(bbValue, "uncorrected").toFixed(2) / math.mean(bbValue) * 100;
-
-    const lowerQuartileElement = document.getElementById('lower-quartile');
-    const upperQuartileElement = document.getElementById('upper-quartile');
-    const stdDevElement = document.getElementById('std-dev');
-    const stdDevPercentElement = document.getElementById('std-dev-percent');
-
-    lowerQuartileElement.textContent = `Bottom 25% Value: ${lowerQuartile}`;
-    upperQuartileElement.textContent = `Top 25% Value: ${upperQuartile}`;
-    stdDevElement.textContent = `Std Dev: ${stdDev}`;
-    stdDevPercentElement.textContent = `Std Dev %: ${stdDevpercent.toFixed(2)}%`;
-
-});
-
 
 document.getElementById('reset-btn').addEventListener('click', function() {
     packsOpenedCount = 0;
@@ -371,6 +315,7 @@ function loadPackResults(pack) {
 
         avgbbValueElement = document.getElementById('avg-bb-value');
         avgbbValueElement.textContent = "Average BB Value: $" + (bbValue.reduce((a, b) => a + b, 0) / bbValue.length).toFixed(2);
+        loadChart();
         
 
     } else {
@@ -419,6 +364,68 @@ function loadPackResults(pack) {
 
 
     }
+
+}
+
+function loadChart() {
+    console.log('loading chart');
+    let chart = document.getElementById('chart');
+
+    if (Chart.getChart(chart) !== undefined) {
+        Chart.getChart(chart).destroy();
+    }
+
+    let ranges = ['0-50', '51-70', '71-90', '91-110', '111-130', '131-150', '151-170', '171-190', '191-210', '211-240', '241-280', '281-320', '320-400', '401-1000'];
+
+    let counts = ranges.map(function(range) {
+        let bounds = range.split('-').map(Number);
+        return bbValue.reduce(function(count, num) {
+            return (num >= bounds[0] && num <= bounds[1]) ? count + 1 : count;
+        }, 0);
+    })
+
+
+    createChart = new Chart(chart, {
+        type: 'bar',
+        data: {
+            labels: ranges,
+            datasets: [{
+                label: 'Number of BBs',
+                data: counts,
+                backgroundColor: 'purple',
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                    
+                },
+                x: {
+                    type: 'category',
+                    labels: ranges
+                }
+            }
+        }
+
+    });
+
+    bbValue.sort((a, b) => a - b);
+
+    let lowerQuartile = bbValue[Math.floor(bbValue.length / 4)].toFixed(2);
+    let upperQuartile = bbValue[Math.floor(bbValue.length * 3 / 4)].toFixed(2);
+    let stdDev = math.std(bbValue, "uncorrected").toFixed(2);
+    let stdDevpercent = math.std(bbValue, "uncorrected").toFixed(2) / math.mean(bbValue) * 100;
+
+    const lowerQuartileElement = document.getElementById('lower-quartile');
+    const upperQuartileElement = document.getElementById('upper-quartile');
+    const stdDevElement = document.getElementById('std-dev');
+    const stdDevPercentElement = document.getElementById('std-dev-percent');
+
+    lowerQuartileElement.textContent = `Bottom 25% Value: ${lowerQuartile}`;
+    upperQuartileElement.textContent = `Top 25% Value: ${upperQuartile}`;
+    stdDevElement.textContent = `Std Dev: ${stdDev}`;
+    stdDevPercentElement.textContent = `Std Dev %: ${stdDevpercent.toFixed(2)}%`;
 }
 
 
@@ -446,6 +453,7 @@ function loadCardInfoStatistics(pack) {
 
     }
 
+}
 
 
 /*
@@ -478,8 +486,9 @@ function loadCardInfoStatistics(pack) {
 
 
     } */
-}
 
+
+/*
 function highValuePack(pack) {
     console.log("High Value Pack Opened!");
 
@@ -493,4 +502,4 @@ function highValuePack(pack) {
     }
 
 }
-
+*/
