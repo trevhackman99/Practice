@@ -267,7 +267,7 @@ function loadPackResults(pack) {
     packsOpenedCount++;
     packsOpened.textContent = `Packs Opened: ${packsOpenedCount}`;
 
-    
+    cardPriceFloor = document.getElementById('cardPriceFloor').value;
 
     totalValueElement = document.getElementById('total-value');
     packValueElement = document.getElementById('pack-value');
@@ -280,17 +280,15 @@ function loadPackResults(pack) {
 
     for (let i = 0; i < pack.length; i++) {
         if (i === (pack.length - 1)) {
-            packValue += pack[i].foil;
-           // console.log("Card FOIL $ added: $" + pack[i].foil);
-        } else {
+            if (pack[i].foil >= cardPriceFloor) {
+                packValue += pack[i].foil;
+            // console.log("Card FOIL $ added: $" + pack[i].foil);
+        }} else {
+            if (pack[i].normal >= cardPriceFloor) {
             packValue += pack[i].normal;
            // console.log("Card $ added: $" + pack[i].normal);
-        }
-    }
-
-    if (packValue > 300) {
-        highValuePack(pack, packValue);
-    }
+        }}
+    }   
 
     totalValue += packValue;
     if (maxPackValue < packValue) {
@@ -308,14 +306,16 @@ function loadPackResults(pack) {
     revolvingPackCount++;
     
 
-    if (revolvingPackCount > 24) {
+    if (revolvingPackCount === 24) {
+        currentbbValue += packValue;
         bbValue.push(currentbbValue);
         currentbbValue = 0;
-        revolvingPackCount = 1;
+        revolvingPackCount = 0;
 
         avgbbValueElement = document.getElementById('avg-bb-value');
         avgbbValueElement.textContent = "Average BB Value: $" + (bbValue.reduce((a, b) => a + b, 0) / bbValue.length).toFixed(2);
         loadChart();
+
         
 
     } else {
@@ -398,12 +398,27 @@ function loadChart() {
         options: {
             scales: {
                 y: {
-                    beginAtZero: true
+                    beginAtZero: true,
+                    ticks: {
+                        color: 'white',
+                        font: {
+                            family: 'BystanderSans-Medium',
+                            weight: 'bold'
+                            
+                        }
+                    }
                     
                 },
                 x: {
                     type: 'category',
-                    labels: ranges
+                    labels: ranges,
+                    ticks: {
+                        color: 'white',
+                        font: {
+                            family: 'BystanderSans-Medium',
+                            weight: 'bold'
+                        }
+                    }
                 }
             }
         }
