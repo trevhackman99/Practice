@@ -1,37 +1,61 @@
 from bs4 import BeautifulSoup as bs
+from requests_html import HTMLSession
 import requests
 import pandas as pd
 import numpy as np
 
 def get_bbref_splits(game_data):
     for game in game_data:
+        game_name = game['away_team'] + ' at ' + game['home_team']    
+
         away_pitcher_id = game['away_pitcher_id']
         home_pitcher_id = game['home_pitcher_id']
 
         away24_url = f'https://www.baseball-reference.com/players/split.fcgi?id={away_pitcher_id}&year=2024&t=p'
         home24_url = f'https://www.baseball-reference.com/players/split.fcgi?id={home_pitcher_id}&year=2024&t=p'
 
-        away_response = requests.get(away24_url)
-        home_response = requests.get(home24_url)
+        session = HTMLSession()
 
-        away_data = bs(away_response.text, 'html.parser')
-        home_data = bs(home_response.text, 'html.parser')
+        html_page = session.get(away24_url)
+        html_page2 = session.get(home24_url)
 
-        # Platoon Splits
-        # Find the nested table
-        container = away_data.find('div', {'id': 'div_plato'})
-        if container:
-            away_platoon_splits = container.find('table', {'id': 'plato'})
-            if away_platoon_splits:
-                rows = away_platoon_splits.find_all('tr')
-                for row in rows:
-                    columns = row.find_all('td')
-                    for column in columns:
-                        print(column.text)
-            else:
-                print("Table with ID 'plato' not found within the container.")
-        else:
-            print("Container with class 'table_container' not found.")
+        html_page.html.render(sleep=4)
+
+        soup = bs(html_page.html.html, 'html.parser')
+
+        a_platoon_table = soup.find('table', {'id': 'plato'})
+        a_times_table = soup.find('table', {'id': 'times'})
+        a_dr_table = soup.find('table', {'id': 'dr'})
+        a_stad_table = soup.find('table', {'id': 'stad'})
+        a_catch_table = soup.find('table', {'id': 'catch'})
+
+        # Extract HTML content of the tables
+        away_tables_html = [str(table) for table in [a_platoon_table, a_times_table, a_dr_table, a_stad_table, a_catch_table]]
+
+        html_page2.html.render(sleep=4)
+
+        soup2 = bs(html_page2.html.html, 'html.parser')
+
+        h_platoon_table = soup2.find('table', {'id': 'plato'})
+        h_times_table = soup2.find('table', {'id': 'times'})
+        h_dr_table = soup2.find('table', {'id': 'dr'})
+        h_stad_table = soup2.find('table', {'id': 'stad'})
+        h_catch_table = soup2.find('table', {'id': 'catch'})
+
+        # Extract HTML content of the tables
+        home_tables_html = [str(table) for table in [h_platoon_table, h_times_table, h_dr_table, h_stad_table, h_catch_table]]
+
+        # Create and write to an HTML file
+        with open(f'tables{game_name}.html', 'w') as file:
+            file.write('<html><head><title>Baseball Tables</title></head><body>')
+            for table_html in away_tables_html:
+                file.write(table_html)
+
+            for table_html in home_tables_html:
+                file.write(table_html)
+            file.write('</body></html>')
+
+        print(f'HTML {game_name} file created with tables.')
         
 
 def get_bbref_previews():
@@ -72,7 +96,7 @@ def get_bbref_previews():
                 game_data.append(game_info)
 
             except IndexError:
-                pass
+                print('IndexError')
                 
     get_bbref_splits(game_data)
 
