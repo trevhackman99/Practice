@@ -14,21 +14,9 @@ const enchanted = .0092;
 
 
 
-let cardData = ""
+let cardData = [];
 
-window.onload = function() {
-    fetch('formattedData.json')
-        .then(response => response.json())
-        .then(data => {
-            cardData = data;
-        })
 
-        .catch(error => {
-            console.error('Error fetching data:', error);
-        }
-
-    );
-};
 
 document.getElementById('odds-btn').addEventListener('click', function() {
     const bbPrice = document.getElementById('bbPrice').value;
@@ -91,9 +79,30 @@ document.getElementById('reset-btn').addEventListener('click', function() {
 
 });
 
-document.getElementById('pack-open-btn').addEventListener('click', function() {
+document.getElementById('pack-open-btn').addEventListener('click', async function() {
 
     const desiredPacks = document.getElementById('desiredPacks').value;
+    const setNumber = document.getElementById('setNumber').value;
+
+    const loadText = document.createElement('h2');
+    loadText.textContent = "Fetching card data...";
+    const statsCtn = document.getElementsByClassName('stats-ctn')[0];
+    statsCtn.insertBefore(loadText, statsCtn.firstChild);
+
+   
+
+    try {
+        const response = await fetch(`formattedData${setNumber}.json`);
+        cardData = await response.json();
+        loadText.textContent = "Simulating packs...";
+
+    } catch (error) {
+        console.error('Error fetching data:', error);
+
+        return; // Exit the function if there's an error
+    }
+
+    
 
     
 
@@ -207,7 +216,7 @@ document.getElementById('pack-open-btn').addEventListener('click', function() {
 
 
             
-
+        loadText.remove();
                 
         loadPackResults(pack);
         loadCardInfoStatistics(pack);
